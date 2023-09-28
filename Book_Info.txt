@@ -1,0 +1,1921 @@
+id,genre,title,author,purchase_price,purchase_date
+1234, Fantasy,The Hunger Games,Suzanne Collins,5.09,13/10/2022
+1235, Magic,Harry Potter and the Order of the Phoenix,J.K. Rowling,7.38,13/10/2022
+1236, Vampires,Twilight,Stephenie Meyer,2.1,13/10/2022
+1237, Historical,The Book Thief,Markus Zusak,3.8,13/10/2022
+1238, Fantasy,Animal Farm,George Orwell,4.42,13/10/2022
+1239, Adventure,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,21.15,13/10/2022
+1240, Romance,Gone with the Wind,Margaret Mitchell,5.58,13/10/2022
+1241, Fiction,The Giving Tree,Shel Silverstein,4.87,13/10/2022
+1242, Gothic,Wuthering Heights,Emily Brontë,2.73,13/10/2022
+1243, Historical,Memoirs of a Geisha,Arthur Golden,2.76,13/10/2022
+1244, Childrens,Alices Adventures in Wonderland & Through the Looking-Glass,Lewis Carroll,3.07,13/10/2022
+1245, Historical Fiction,Jane Eyre,Charlotte Brontë,5.46,13/10/2022
+1246, Fantasy,Divergent,Veronica Roth,0.88,13/10/2022
+1247, School,Lord of the Flies,William Golding,1.89,13/10/2022
+1248, Romance,Romeo and Juliet,William Shakespeare,6.79,13/10/2022
+1249, Philosophy,The Alchemist,Paulo Coelho,13.22,13/10/2022
+1250, Literature,Crime and Punishment,Fyodor Dostoyevsky,18.85,13/10/2022
+1251, Romance,City of Bones,Cassandra Clare,6.29,13/10/2022
+1252, Fantasy,Enders Game,Orson Scott Card,4.6,13/10/2022
+1253, Childrens,Anne of Green Gables,L.M. Montgomery,6.07,13/10/2022
+1254, Young Adult,Charlottes Web,E.B. White,6.15,13/10/2022
+1255, Historical Fiction,Of Mice and Men,John Steinbeck,5.75,13/10/2022
+1256, Fantasy,Dracula,Bram Stoker,4.55,13/10/2022
+1257, Dystopia,Brave New World,Aldous Huxley,3.78,13/10/2022
+1258, Literature,The Catcher in the Rye,J.D. Salinger,2.6,13/10/2022
+1259, Romance,The Princess Bride,William Goldman,6.23,13/10/2022
+1260, Fiction,The Lightning Thief,Rick Riordan,1.79,13/10/2022
+1261, Young Adult,The Secret Garden,Frances Hodgson Burnett,3.33,13/10/2022
+1262, Novels,A Thousand Splendid Suns,Khaled Hosseini,1.16,13/10/2022
+1263, Young Adult,A Wrinkle in Time,Madeleine LEngle,4.8,13/10/2022
+1264, Adult,A Game of Thrones,George R.R. Martin,4.01,13/10/2022
+1265, Literature,The Adventures of Huckleberry Finn,Mark Twain,6.99,13/10/2022
+1266, Contemporary,The Lovely Bones,Alice Sebold,1.91,13/10/2022
+1267, Classics,Where the Wild Things Are,Maurice Sendak,3.67,13/10/2022
+1268, Fiction,Green Eggs and Ham,Dr. Seuss,2.98,13/10/2022
+1269, Mythology,The Odyssey,Homer,3.65,13/10/2022
+1270, Adventure,Life of Pi,Yann Martel,2.86,13/10/2022
+1271, Literature,A Tale of Two Cities,Charles Dickens,1.12,13/10/2022
+1272, Historical,Water for Elephants,Sara Gruen,3.46,13/10/2022
+1273, War,Slaughterhouse-Five,Kurt Vonnegut Jr.,8.5,13/10/2022
+1274, Science Fiction,Frankenstein: The 1818 Text,Mary Wollstonecraft Shelley,8.75,13/10/2022
+1275, Dystopia,The Giver,Lois Lowry,7.15,13/10/2022
+1276, Historical Fiction,Catch-22,Joseph Heller,3.32,13/10/2022
+1277, Classics,Dune,Frank Herbert,29.34,13/10/2022
+1278, Science Fiction,The Stand,Stephen King,8.38,13/10/2022
+1279, Young Adult,Watership Down,Richard Adams,5.25,13/10/2022
+1280, Historical Fiction,Great Expectations,Charles Dickens,0.85,13/10/2022
+1281, Young Adult,Little Women,Louisa May Alcott,5.51,13/10/2022
+1282, Magic,Harry Potter and the Deathly Hallows,J.K. Rowling,2.85,13/10/2022
+1283, Fiction,Outlander,Diana Gabaldon,5.98,13/10/2022
+1284, Young Adult,My Sisters Keeper,Jodi Picoult,2.76,13/10/2022
+1285, Fantasy,Matilda,Roald Dahl,6.01,13/10/2022
+1286, Feminism,The Color Purple,Alice Walker,13.75,13/10/2022
+1287, Young Adult,A Tree Grows in Brooklyn,Betty Smith,5.01,13/10/2022
+1288, Dystopia,A Clockwork Orange,Anthony Burgess,13.05,13/10/2022
+1289, Post Apocalyptic,The Road,Cormac McCarthy,6.83,13/10/2022
+1290, Literature,The Brothers Karamazov,Fyodor Dostoyevsky,5.51,13/10/2022
+1291, Classics,Angelas Ashes,Frank McCourt,2.76,13/10/2022
+1292, Paranormal,Vampire Academy,Richelle Mead,3.33,13/10/2022
+1293, Classics,The Poisonwood Bible,Barbara Kingsolver,4.12,13/10/2022
+1294, Childrens,The Golden Compass,Philip Pullman,1.61,13/10/2022
+1295, Spanish Literature,Don Quixote,Miguel de Cervantes Saavedra,9.04,13/10/2022
+1296, Politics,Atlas Shrugged,Ayn Rand,4.41,13/10/2022
+1297, Magic,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,5.94,13/10/2022
+1298, Novels,The Old Man and the Sea,Ernest Hemingway,15.63,13/10/2022
+1299, Fantasy,Winnie-the-Pooh,A.A. Milne,5.3,13/10/2022
+1300, Fiction,The Complete Stories and Poems,Edgar Allan Poe,5.27,13/10/2022
+1301, Vampires,Interview with the Vampire,Anne Rice,2.66,13/10/2022
+1302, Literature,A Prayer for Owen Meany,John Irving,2.86,13/10/2022
+1303, Adventure,Moby-Dick or,Herman Melville,1.87,13/10/2022
+1304, Religion,The Red Tent,Anita Diamant,5.26,13/10/2022
+1305, Classics,The Secret Life of Bees,Sue Monk Kidd,3.5,13/10/2022
+1306, Romance,Clockwork Angel,Cassandra Clare,4.62,13/10/2022
+1307, Crime,And Then There Were None,Agatha Christie,4.82,13/10/2022
+1308, LGBT,Middlesex,Jeffrey Eugenides,3.11,13/10/2022
+1309, Fantasy,The Master and Margarita,Mikhail Bulgakov,13.56,13/10/2022
+1310, High Fantasy,The Name of the Wind,Patrick Rothfuss,9.36,13/10/2022
+1311, Classics,The Shining,Stephen King,7.59,13/10/2022
+1312, Young Adult,The Adventures of Tom Sawyer,Mark Twain,3.36,13/10/2022
+1313, Dragons,Eragon,Christopher Paolini,2.86,13/10/2022
+1314, Classics,Charlie and the Chocolate Factory,Roald Dahl,1.13,13/10/2022
+1315, Literature,On the Road,Jack Kerouac,1.91,13/10/2022
+1316, Contemporary,The Curious Incident of the Dog in the Night-Time,Mark Haddon,2.94,13/10/2022
+1317, Classics,The Very Hungry Caterpillar,Eric Carle,2.42,13/10/2022
+1318, Inspirational,Tuesdays with Morrie,Mitch Albom,3.27,13/10/2022
+1319, Literature,The Unbearable Lightness of Being,Milan Kundera,11.62,13/10/2022
+1320, Classics,The Name of the Rose,Umberto Eco,4.07,13/10/2022
+1321, Childrens,Where the Red Fern Grows,Wilson Rawls,5.4,13/10/2022
+1322, Magic,Harry Potter and the Chamber of Secrets,J.K. Rowling,4.17,13/10/2022
+1323, School,The Scarlet Letter,Nathaniel Hawthorne,1.91,13/10/2022
+1324, Crime,In Cold Blood,Truman Capote,6.58,13/10/2022
+1325, Thriller,Fight Club,Chuck Palahniuk,10.16,13/10/2022
+1326, Fantasy,The Five People You Meet in Heaven,Mitch Albom,3.57,13/10/2022
+1327, Paranormal,Hush,Becca Fitzpatrick,2.55,13/10/2022
+1328, Fiction,The Cat in the Hat,Dr. Seuss,0.85,13/10/2022
+1329, Adventure,The Count of Monte Cristo,Alexandre Dumas,6.13,13/10/2022
+1330, Classics,Lonesome Dove,Larry McMurtry,4.55,13/10/2022
+1331, Horror,Perfume: The Story of a Murderer,Patrick Süskind,2.6,13/10/2022
+1332, Middle Grade,Holes,Louis Sachar,3.1,13/10/2022
+1333, Science Fiction,Watchmen,Alan Moore,4.85,13/10/2022
+1334, Fantasy,It,Stephen King,5.71,13/10/2022
+1335, Fiction,The Last Olympian,Rick Riordan,7.44,22/01/2023
+1336, Literature,The Divine Comedy,Dante Alighieri,13.66,22/01/2023
+1337, Childrens,Peter Pan,J.M. Barrie,5.26,22/01/2023
+1338, War,All Quiet on the Western Front,Erich Maria Remarque,2.32,22/01/2023
+1339, Adventure,The Hobbit,J.R.R. Tolkien,4.68,22/01/2023
+1340, Fiction,The Compleat Works of Wllm Shkspr (abridged),Reduced Shakespeare Company,3.17,22/01/2023
+1341, Romance,Love in the Time of Cholera,Gabriel García Márquez,3.36,22/01/2023
+1342, Paranormal,Shadow Kiss,Richelle Mead,2.76,22/01/2023
+1343, Fantasy,The Ultimate Hitchhikers Guide to the Galaxy,Douglas Adams,2.76,22/01/2023
+1344, Classics,Atonement,Ian McEwan,2.86,22/01/2023
+1345, Drama,The Importance of Being Earnest,Oscar Wilde,5.26,22/01/2023
+1346, Biography,Eat Pray Love,Elizabeth Gilbert,5.56,22/01/2023
+1347, School,Their Eyes Were Watching God,Zora Neale Hurston,14.2,22/01/2023
+1348, Childrens,The Wonderful Wizard of Oz,L. Frank Baum,1.45,22/01/2023
+1349, Fiction,Goodnight Moon,Margaret Wise Brown,5.69,22/01/2023
+1350, Classics,The Lorax,Dr. Seuss,41.26,22/01/2023
+1351, Paranormal,Blood Promise,Richelle Mead,3.73,22/01/2023
+1352, China,The Good Earth,Pearl S. Buck,5.27,22/01/2023
+1353, Africa,Heart of Darkness,Joseph Conrad,7.19,22/01/2023
+1354, Drama,A Midsummer Nights Dream,William Shakespeare,3,22/01/2023
+1355, Paranormal,Clockwork Princess,Cassandra Clare,4,22/01/2023
+1356, Fiction,The Prophet,Kahlil Gibran,5.8,22/01/2023
+1357, Fiction,The Titans Curse,Rick Riordan,3.43,22/01/2023
+1358, Fiction,The Sea of Monsters,Rick Riordan,1.91,22/01/2023
+1359, China,The Joy Luck Club,Amy Tan,4.74,22/01/2023
+1360, Childrens,Alice in Wonderland,Jane Carruth (Adapted By),5.26,22/01/2023
+1361, Young Adult,The Call of the Wild,Jack London,5.38,22/01/2023
+1362, Fantasy,Jonathan Livingston Seagull,Richard Bach,4.55,22/01/2023
+1363, Literature,Madame Bovary,Gustave Flaubert,1.45,22/01/2023
+1364, Classics,The Phantom Tollbooth,Norton Juster,5.79,22/01/2023
+1365, Dystopia,The Hunger Games Trilogy Boxset,Suzanne Collins,4.09,22/01/2023
+1366, Classics,Oh the Places Youll Go!,Dr. Seuss,5.01,22/01/2023
+1367, Crime,The Girl Who Played with Fire,Stieg Larsson,3.25,22/01/2023
+1368, Fiction,The Maze Runner,James Dashner,3.17,22/01/2023
+1369, Young Adult,The Neverending Story,Michael Ende,7.54,22/01/2023
+1370, Young Adult,Treasure Island,Robert Louis Stevenson,5.6,22/01/2023
+1371, Science Fiction Fantasy,A Storm of Swords,George R.R. Martin,3.57,22/01/2023
+1372, Literature,The Canterbury Tales,Geoffrey Chaucer,3.9,22/01/2023
+1373, War,A Farewell to Arms,Ernest Hemingway,0.91,22/01/2023
+1374, Realistic Fiction,Tote Mädchen lügen nicht,Jay Asher,3.86,22/01/2023
+1375, Science Fiction Fantasy,Wicked: The Life and Times of the Wicked Witch of the West,Gregory Maguire,2.76,22/01/2023
+1376, Historical,Shōgun,James Clavell,7.04,22/01/2023
+1377, Novels,Extremely Loud & Incredibly Close,Jonathan Safran Foer,2.41,22/01/2023
+1378, Crime,Murder on the Orient Express,Agatha Christie,2.56,22/01/2023
+1379, Childrens,His Dark Materials,Philip Pullman,3.57,22/01/2023
+1380, Young Adult,A Little Princess,Frances Hodgson Burnett,2.87,22/01/2023
+1381, Holocaust,Schindlers List,Thomas Keneally,0.85,22/01/2023
+1382, Paranormal,Last Sacrifice,Richelle Mead,3.8,22/01/2023
+1383, Historical Fiction,The Night Circus,Erin Morgenstern,7.02,22/01/2023
+1384, Paranormal,Fallen,Lauren Kate,4.64,22/01/2023
+1385, High Fantasy,The Silmarillion,J.R.R. Tolkien,17.07,22/01/2023
+1386, Historical,The Secret Magdalene,Ki Longfellow,5.6,22/01/2023
+1387, Magical Realism,Beloved,Toni Morrison,3.8,22/01/2023
+1388, Literature,A Confederacy of Dunces,John Kennedy Toole,5.91,22/01/2023
+1389, Fantasy,The Selection,Kiera Cass,5.01,22/01/2023
+1390, Picture Books,The Velveteen Rabbit,Margery Williams Bianco,5.9,22/01/2023
+1391, Fantasy,Catching Fire,Suzanne Collins,3.66,22/01/2023
+1392, Fiction,The Lost Hero,Rick Riordan,10.25,22/01/2023
+1393, Paranormal,Spirit Bound,Richelle Mead,4.59,22/01/2023
+1394, Paranormal,Clockwork Prince,Cassandra Clare,5.69,22/01/2023
+1395, Mythology,The Iliad/The Odyssey,Homer,6.15,22/01/2023
+1396, Historical Fiction,The Crucible,Arthur Miller,3.98,22/01/2023
+1397, Humor,Cats Cradle,Kurt Vonnegut Jr.,5.69,22/01/2023
+1398, Contemporary,The God of Small Things,Arundhati Roy,3.17,22/01/2023
+1399, Fantasy,The Wind in the Willows,Kenneth Grahame,4.18,22/01/2023
+1400, Classics,Girl with a Pearl Earring,Tracy Chevalier,2.86,22/01/2023
+1401, Christian,The Hiding Place: The Triumphant True Story of Corrie Ten Boom,Corrie ten Boom,4.17,22/01/2023
+1402, Fiction,A Light in the Attic,Shel Silverstein,12.08,22/01/2023
+1403, Mystery,The Silence of the Lambs,Thomas Harris,3.11,22/01/2023
+1404, Paranormal,Shiver,Maggie Stiefvater,7.05,22/01/2023
+1405, Fiction,Uglies,Scott Westerfeld,3.58,22/01/2023
+1406, Romance,City of Fallen Angels,Cassandra Clare,4.75,22/01/2023
+1407, History,Mans Search for Meaning,Viktor E. Frankl,7.37,22/01/2023
+1408, Adult Fiction,Shes Come Undone,Wally Lamb,1.91,22/01/2023
+1409, Romance,The Phantom of the Opera,Gaston Leroux,2.86,22/01/2023
+1410, Dogs,Marley and Me: Life and Love With the Worlds Worst Dog,John Grogan,5.29,22/01/2023
+1411, Romance,Ella Enchanted,Gail Carson Levine,1.91,22/01/2023
+1412, Japanese Literature,The Wind-Up Bird Chronicle,Haruki Murakami,22.25,22/01/2023
+1413, Thriller,The Green Mile,Stephen King,17.56,22/01/2023
+1414, Science Fiction Fantasy,A Clash of Kings,George R.R. Martin,1.91,22/01/2023
+1415, Paranormal,Marked,P.C. Cast,1.79,22/01/2023
+1416, Romance,The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer,3.65,22/01/2023
+1417, Journalism,Fear and Loathing in Las Vegas,Hunter S. Thompson,5.69,22/01/2023
+1418, Classics,The House of the Spirits,Isabel Allende,3.32,22/01/2023
+1419, Fiction,The Complete Calvin and Hobbes,Bill Watterson,110.67,22/01/2023
+1420, Historical,Roots: The Saga of an American Family,Alex Haley,3.1,22/01/2023
+1421, Suspense,Misery,Stephen King,1.12,22/01/2023
+1422, Romance,Howls Moving Castle,Diana Wynne Jones,5.95,22/01/2023
+1423, Science Fiction Fantasy,Stranger in a Strange Land,Robert A. Heinlein,6.4,22/01/2023
+1424, Crime,The Girl Who Kicked the Hornets Nest,Stieg Larsson,1.64,22/01/2023
+1425, Literary Fiction,The Secret History,Donna Tartt,9.11,22/01/2023
+1426, Adult Fiction,White Oleander,Janet Fitch,4.89,22/01/2023
+1427, Science Fiction,Delirium,Lauren Oliver,2.86,22/01/2023
+1428, Drama,Othello,William Shakespeare,6.76,22/01/2023
+1429, Historical,Flow Down Like Silver: Hypatia of Alexandria,Ki Longfellow,8.08,22/01/2023
+1430, Romance,Paper Towns,John Green,1.61,22/01/2023
+1431, Fiction,The Vampire Lestat,Anne Rice,5.68,22/01/2023
+1432, Realistic Fiction,Speak,Laurie Halse Anderson,5.07,22/01/2023
+1433, Russian Literature,The Idiot,Fyodor Dostoyevsky,5.46,22/01/2023
+1434, Fiction,King Lear,William Shakespeare,3.78,22/01/2023
+1435, Historical Fiction,The Once and Future King,T.H. White,2.66,22/01/2023
+1436, Literary Fiction,I Know This Much Is True,Wally Lamb,2.94,22/01/2023
+1437, Science Fiction Fantasy,Neverwhere,Neil Gaiman,4.66,22/01/2023
+1438, Adventure,Into the Wild,Jon Krakauer,3.75,22/01/2023
+1439, Childrens,Inkheart,Cornelia Funke,3.52,22/01/2023
+1440, Fantasy,Lamb: The Gospel According to Biff,Christopher Moore,3.56,22/01/2023
+1441, Crime,The Complete Sherlock Holmes,Arthur Conan Doyle,11.24,22/01/2023
+1442, France,Candide,Voltaire,1.45,22/01/2023
+1443, Classics,James and the Giant Peach,Roald Dahl,5.4,22/01/2023
+1444, History,Blood River: A Journey to Africas Broken Heart,Tim Butcher,2.76,22/01/2023
+1445, Literature,Paradise Lost,John Milton,1.91,22/01/2023
+1446, Classics,All Creatures Great and Small,James Herriot,2.63,22/01/2023
+1447, Plays,The Complete Works,William Shakespeare,4.44,22/01/2023
+1448, Gothic,The Thirteenth Tale,Diane Setterfield,1.76,22/01/2023
+1449, Science Fiction Fantasy,Foundation,Isaac Asimov,15.29,22/01/2023
+1450, Japanese Literature,Norwegian Wood,Haruki Murakami,13,22/01/2023
+1451, Classics,The Things They Carried,Tim OBrien,3.32,22/01/2023
+1452, Literature,The Cider House Rules,John Irving,5.14,22/01/2023
+1453, Thriller,Different Seasons,Stephen King,3.11,22/01/2023
+1454, Fantasy,Kafka on the Shore,Haruki Murakami,8.22,22/01/2023
+1455, Young Adult,Heidi,Johanna Spyri,2.49,22/01/2023
+1456, Classics,Are You There God? Its Me,Judy Blume,11.9,22/01/2023
+1457, Romance,City of Lost Souls,Cassandra Clare,5.26,22/01/2023
+1458, Young Adult,Sophies World,Jostein Gaarder,3.43,22/01/2023
+1459, High Fantasy,The Wise Mans Fear,Patrick Rothfuss,16.37,22/01/2023
+1460, School,The Awakening,Kate Chopin,10.36,22/01/2023
+1461, Holocaust,Sophies Choice,William Styron,4.08,22/01/2023
+1462, Romance,The Prince of Tides,Pat Conroy,7.15,22/01/2023
+1463, Contemporary,Never Let Me Go,Kazuo Ishiguro,6.46,22/01/2023
+1464, Fiction,The Son of Neptune,Rick Riordan,6.42,22/01/2023
+1465, Urban Fantasy,Dead Until Dark,Charlaine Harris,3.16,22/01/2023
+1466, Classics,Fried Green Tomatoes at the Whistle Stop Cafe,Fannie Flagg,16.54,22/01/2023
+1467, BDSM,Fifty Shades Darker,E.L. James,6.33,22/01/2023
+1468, Fantasy,Ready Player One,Ernest Cline,16.53,22/01/2023
+1469, Literature,Middlemarch,George Eliot,5.49,22/01/2023
+1470, Humor,The Monster at the End of this Book,Jon Stone,5.46,22/01/2023
+1471, Humor,Bridget Joness Diary,Helen Fielding,4.48,22/01/2023
+1472, Novels,Mrs. Dalloway,Virginia Woolf,1.33,22/01/2023
+1473, Fantasy,Mockingjay,Suzanne Collins,3.43,22/01/2023
+1474, Literature,Franny and Zooey,J.D. Salinger,4.19,22/01/2023
+1475, Classics,The Power of One,Bryce Courtenay,4,22/01/2023
+1476, Young Adult,The Magicians Nephew,C.S. Lewis,2.86,22/01/2023
+1477, Young Adult,Stardust,Neil Gaiman,6.7,22/01/2023
+1478, Classics,Number the Stars,Lois Lowry,8.29,22/01/2023
+1479, Science Fiction,Allegiant,Veronica Roth,2.76,22/01/2023
+1480, Fiction,Eleanor & Park,Rainbow Rowell,1.06,22/01/2023
+1481, Audiobook,A Short History of Nearly Everything,Bill Bryson,2.17,22/01/2023
+1482, Chick Lit,Me Before You,Jojo Moyes,3.14,22/01/2023
+1483, Fiction,The Mark of Athena,Rick Riordan,5.11,22/01/2023
+1484, Dogs,The Art of Racing in the Rain,Garth Stein,5.27,22/01/2023
+1485, High Fantasy,The Way of Kings,Brandon Sanderson,22.74,22/01/2023
+1486, Fiction,If I Stay,Gayle Forman,3.82,22/01/2023
+1487, Animals,Black Beauty,Anna Sewell,3.16,22/01/2023
+1488, Irish Literature,A Portrait of the Artist as a Young Man,James Joyce,5.87,22/01/2023
+1489, Adventure,Gullivers Travels,Jonathan Swift,3.27,22/01/2023
+1490, Book Club,Bel Canto,Ann Patchett,2.86,22/01/2023
+1491, Classics,American Psycho,Bret Easton Ellis,3.34,22/01/2023
+1492, Dystopia,V for Vendetta,Alan Moore,14.65,22/01/2023
+1493, Classics,Love You Forever,Robert Munsch,3.46,22/01/2023
+1494, Classics,The Witches,Roald Dahl,3.84,22/01/2023
+1495, Horror,The Graveyard Book,Neil Gaiman,3.87,22/01/2023
+1496, Historical Fiction,The Complete Novels,Jane Austen,2.76,22/01/2023
+1497, BDSM,Fifty Shades Freed,E.L. James,4,22/01/2023
+1498, Romance,Cold Mountain,Charles Frazier,4.21,22/01/2023
+1499, Animals,White Fang,Jack London,3.16,22/01/2023
+1500, Fantasy,Beowulf,Unknown,4.55,22/01/2023
+1501, Fiction,Tuck Everlasting,Natalie Babbitt,3.1,22/01/2023
+1502, High Fantasy,The Final Empire,Brandon Sanderson,20.93,22/01/2023
+1503, Romance,Beautiful Creatures,Kami Garcia,6.29,22/01/2023
+1504, German Literature,Steppenwolf,Hermann Hesse,2.71,22/01/2023
+1505, Dragons,Eldest,Christopher Paolini,3.11,22/01/2023
+1506, Paranormal Romance,Dark Lover,J.R. Ward,3.89,22/01/2023
+1507, Contemporary,Go Ask Alice,Beatrice Sparks (as Anonymous),2.98,22/01/2023
+1508, High Fantasy,The Eye of the World,Robert Jordan,5.13,22/01/2023
+1509, Short Stories,The Tell-Tale Heart and Other Writings,Edgar Allan Poe,5.58,22/01/2023
+1510, Novels,As I Lay Dying,William Faulkner,3.81,22/01/2023
+1511, Historical Fiction,A Separate Peace,John Knowles,2.82,22/01/2023
+1512, History,The Complete Maus,Art Spiegelman,13.84,22/01/2023
+1513, Historical Fiction,Mansfield Park,Jane Austen,3.11,22/01/2023
+1514, Literature,The Amazing Adventures of Kavalier & Clay,Michael Chabon,3.76,22/01/2023
+1515, Dragons,Brisingr,Christopher Paolini,3.92,22/01/2023
+1516, Psychology,A Child Called It,Dave Pelzer,2.93,22/01/2023
+1517, Realistic Fiction,Stargirl,Jerry Spinelli,2.25,22/01/2023
+1518, Classics,Tao Te Ching,Lao Tzu,8,22/01/2023
+1519, Contemporary,Dear John,Nicholas Sparks,1.64,22/01/2023
+1520, Classics,Midnights Children,Salman Rushdie,0.85,22/01/2023
+1521, Fantasy,Salems Lot,Stephen King,1.12,22/01/2023
+1522, Short Stories,The Martian Chronicles,Ray Bradbury,3.63,22/01/2023
+1523, Paranormal,Crescendo,Becca Fitzpatrick,5.8,22/01/2023
+1524, Romance,The English Patient,Michael Ondaatje,16.05,22/01/2023
+1525, Literature,East of Eden,John Steinbeck,5.26,22/01/2023
+1526, Historical Fiction,Cloud Atlas,David Mitchell,1.15,22/01/2023
+1527, Spirituality,Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values,Robert M. Pirsig,4.41,22/01/2023
+1528, Adventure,The Martian,Andy Weir,2.63,22/01/2023
+1529, Suspense,The Firm,John Grisham,3.09,22/01/2023
+1530, Contemporary,The Last Song,Nicholas Sparks,3.28,22/01/2023
+1531, Literature,My Ántonia,Willa Cather,2.86,22/01/2023
+1532, Romance,Shatter Me,Tahereh Mafi,4.81,22/01/2023
+1533, Science Fiction,The Amber Spyglass,Philip Pullman,1.64,22/01/2023
+1534, Russia,Doctor Zhivago,Boris Pasternak,6.56,22/01/2023
+1535, France,The Hunchback of Notre-Dame,Victor Hugo,3.32,10/08/2023
+1536, Literature,Inferno,Dante Alighieri,5.34,10/08/2023
+1537, Historical Fiction,Like Water for Chocolate,Laura Esquivel,2.6,10/08/2023
+1538, Fiction,Dragonfly in Amber,Diana Gabaldon,4.8,10/08/2023
+1539, Humor,Breakfast of Champions,Kurt Vonnegut Jr.,2.82,10/08/2023
+1540, Classics,The BFG,Roald Dahl,2.75,10/08/2023
+1541, Young Adult Fantasy,Six of Crows,Leigh Bardugo,5.78,10/08/2023
+1542, Magic,Harry Potter Series Box Set,J.K. Rowling,77.25,10/08/2023
+1543, Biology,The Origin of Species,Charles Darwin,5.58,10/08/2023
+1544, Canada,A Fine Balance,Rohinton Mistry,7.31,10/08/2023
+1545, Paranormal,Daughter of Smoke & Bone,Laini Taylor,4.99,10/08/2023
+1546, Science Fiction,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,3.35,10/08/2023
+1547, Paranormal,City of Heavenly Fire,Cassandra Clare,8.37,10/08/2023
+1548, Romance,Evermore,Alyson Noel,1.45,10/08/2023
+1549, Drama,Death of a Salesman,Arthur Miller,3.92,10/08/2023
+1550, Time Travel,11/22/63,Stephen King,6.21,10/08/2023
+1551, Crime,Midnight in the Garden of Good and Evil,John Berendt,4.43,10/08/2023
+1552, Fiction,A Streetcar Named Desire,Tennessee Williams,5.26,10/08/2023
+1553, Novels,Infinite Jest,David Foster Wallace,10.18,10/08/2023
+1554, Politics,The Prince,Niccolò Machiavelli,5.68,10/08/2023
+1555, Drama,Hamlet,William Shakespeare,2.2,10/08/2023
+1556, Poetry,Faust,Johann Wolfgang von Goethe,6.32,10/08/2023
+1557, Chick Lit,Anna and the French Kiss,Stephanie Perkins,3.11,10/08/2023
+1558, Science Fiction Fantasy,A Feast for Crows,George R.R. Martin,5,10/08/2023
+1559, Fiction,The Angel Experiment,James Patterson,3.43,10/08/2023
+1560, Science Fiction,Matched,Ally Condie,1.64,10/08/2023
+1561, Mystery,Flowers in the Attic,V.C. Andrews,8.77,10/08/2023
+1562, Canada,The Shipping News,Annie Proulx,1.29,10/08/2023
+1563, World War II,Unbroken: A World War II Story of Survival,Laura Hillenbrand,1.15,10/08/2023
+1564, Young Adult,The Chosen,Chaim Potok,2,10/08/2023
+1565, Humor,High Fidelity,Nick Hornby,2.58,10/08/2023
+1566, War,All the Light We Cannot See,Anthony Doerr,4.45,10/08/2023
+1567, Mystery,Houdini Heart,Ki Longfellow,4.58,10/08/2023
+1568, Middle Grade,Artemis Fowl,Eoin Colfer,4.97,10/08/2023
+1569, Young Adult,Pippi Longstocking,Astrid Lindgren,6.7,10/08/2023
+1570, Short Stories,The Tales of Beedle the Bard,J.K. Rowling,1.79,10/08/2023
+1571, Young Adult,The Virgin Suicides,Jeffrey Eugenides,2.67,10/08/2023
+1572, Classics,The Reader,Bernhard Schlink,3.16,10/08/2023
+1573, Adult,Nineteen Minutes,Jodi Picoult,2.66,10/08/2023
+1574, Fiction,The House of Hades,Rick Riordan,8,10/08/2023
+1575, Adventure,Shantaram,Gregory David Roberts,5.97,10/08/2023
+1576, Crime,The Devil in the White City: Murder,Erik Larson,6.78,10/08/2023
+1577, Romance,Redeeming Love,Francine Rivers,3.81,10/08/2023
+1578, Romance,The Age of Innocence,Edith Wharton,3.77,10/08/2023
+1579, Romance,The Host,Stephenie Meyer,3.89,10/08/2023
+1580, Mystery Thriller,The Lost Symbol,Dan Brown,0.85,10/08/2023
+1581, Paranormal,Betrayed,P.C. Cast,3.38,10/08/2023
+1582, Literature,The Grapes of Wrath,John Steinbeck,27.35,10/08/2023
+1583, Historical Fiction,Northanger Abbey,Jane Austen,0.85,10/08/2023
+1584, Young Adult,The Voyage of the Dawn Treader,C.S. Lewis,7.83,10/08/2023
+1585, Ireland,Dubliners,James Joyce,2.74,10/08/2023
+1586, Paranormal Romance,Lover Awakened,J.R. Ward,2.5,10/08/2023
+1587, New Adult,A Court of Thorns and Roses,Sarah J. Maas,18.9,10/08/2023
+1588, Adult Fiction,Divine Secrets of the Ya-Ya Sisterhood,Rebecca Wells,1.71,10/08/2023
+1589, Literature,The Waste Land,T.S. Eliot,5.26,10/08/2023
+1590, Paranormal,Untamed,P.C. Cast,2.87,10/08/2023
+1591, Novels,Everything Is Illuminated,Jonathan Safran Foer,1.45,10/08/2023
+1592, Magic,Crown of Midnight,Sarah J. Maas,18.19,10/08/2023
+1593, Biography,I Know Why the Caged Bird Sings,Maya Angelou,4.64,10/08/2023
+1594, Short Stories,I Robot,Isaac Asimov,8.99,10/08/2023
+1595, Romance,The Twilight Collection,Stephenie Meyer,28.05,10/08/2023
+1596, School,The Pearl,John Steinbeck,12.38,10/08/2023
+1597, Fantasy,The One,Kiera Cass,3.39,10/08/2023
+1598, Literature,The Jungle,Upton Sinclair,2.94,10/08/2023
+1599, Paranormal,Carrie,Stephen King,7.01,10/08/2023
+1600, Historical,Snow Falling on Cedars,David Guterson,1.79,10/08/2023
+1601, Fiction,Voyager,Diana Gabaldon,5.97,10/08/2023
+1602, Historical,I Claudius,Robert Graves,3.38,10/08/2023
+1603, Magic,Heir of Fire,Sarah J. Maas,8.99,10/08/2023
+1604, Essays,Me Talk Pretty One Day,David Sedaris,1.44,10/08/2023
+1605, Paranormal,Chosen,P.C. Cast,1.79,10/08/2023
+1606, Historical Fiction,A Room with a View,E.M. Forster,9.24,10/08/2023
+1607, 19th Century,Bleak House,Charles Dickens,5.51,10/08/2023
+1608, Politics,The Republic,Plato,2.85,10/08/2023
+1609, Young Adult,The Last Battle,C.S. Lewis,1.79,10/08/2023
+1610, Paranormal,The Exorcist,William Peter Blatty,6.49,10/08/2023
+1611, Drama,The Elephant Tree,R.D. Ronald,5.42,10/08/2023
+1612, Young Adult,Coraline,Neil Gaiman,11.55,10/08/2023
+1613, Literature,Demian: Die Geschichte von Emil Sinclairs Jugend,Hermann Hesse,3.56,10/08/2023
+1614, Fiction,The 5th Wave,Rick Yancey,1.64,10/08/2023
+1615, Paranormal,The Iron King,Julie Kagawa,3.81,10/08/2023
+1616, Novels,Quantum Roots II: Worm Holes,Kyle Keyes,14.36,10/08/2023
+1617, Romance,Aristotle and Dante Discover the Secrets of the Universe,Benjamin Alire Sáenz,19.17,10/08/2023
+1618, Fantasy,The Hunger Games,Suzanne Collins,5.09,13/10/2022
+1619, Magic,Harry Potter and the Order of the Phoenix,J.K. Rowling,7.38,13/10/2022
+1620, Vampires,Twilight,Stephenie Meyer,2.1,13/10/2022
+1621, Historical,The Book Thief,Markus Zusak,3.8,13/10/2022
+1622, Fantasy,Animal Farm,George Orwell,4.42,13/10/2022
+1623, Adventure,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,21.15,13/10/2022
+1624, Romance,Gone with the Wind,Margaret Mitchell,5.58,13/10/2022
+1625, Fiction,The Giving Tree,Shel Silverstein,4.87,13/10/2022
+1626, Gothic,Wuthering Heights,Emily Brontë,2.73,13/10/2022
+1627, Historical,Memoirs of a Geisha,Arthur Golden,2.76,13/10/2022
+1628, Childrens,Alices Adventures in Wonderland & Through the Looking-Glass,Lewis Carroll,3.07,13/10/2022
+1629, Historical Fiction,Jane Eyre,Charlotte Brontë,5.46,13/10/2022
+1630, Fantasy,Divergent,Veronica Roth,0.88,13/10/2022
+1631, School,Lord of the Flies,William Golding,1.89,13/10/2022
+1632, Romance,Romeo and Juliet,William Shakespeare,6.79,13/10/2022
+1633, Philosophy,The Alchemist,Paulo Coelho,13.22,13/10/2022
+1634, Literature,Crime and Punishment,Fyodor Dostoyevsky,18.85,13/10/2022
+1635, Romance,City of Bones,Cassandra Clare,6.29,13/10/2022
+1636, Fantasy,Enders Game,Orson Scott Card,4.6,13/10/2022
+1637, Childrens,Anne of Green Gables,L.M. Montgomery,6.07,13/10/2022
+1638, Young Adult,Charlottes Web,E.B. White,6.15,13/10/2022
+1639, Historical Fiction,Of Mice and Men,John Steinbeck,5.75,13/10/2022
+1640, Fantasy,Dracula,Bram Stoker,4.55,13/10/2022
+1641, Dystopia,Brave New World,Aldous Huxley,3.78,13/10/2022
+1642, Literature,The Catcher in the Rye,J.D. Salinger,2.6,13/10/2022
+1643, Romance,The Princess Bride,William Goldman,6.23,13/10/2022
+1644, Fiction,The Lightning Thief,Rick Riordan,1.79,13/10/2022
+1645, Young Adult,The Secret Garden,Frances Hodgson Burnett,3.33,13/10/2022
+1646, Novels,A Thousand Splendid Suns,Khaled Hosseini,1.16,13/10/2022
+1647, Young Adult,A Wrinkle in Time,Madeleine LEngle,4.8,13/10/2022
+1648, Adult,A Game of Thrones,George R.R. Martin,4.01,13/10/2022
+1649, Literature,The Adventures of Huckleberry Finn,Mark Twain,6.99,13/10/2022
+1650, Contemporary,The Lovely Bones,Alice Sebold,1.91,13/10/2022
+1651, Classics,Where the Wild Things Are,Maurice Sendak,3.67,13/10/2022
+1652, Fiction,Green Eggs and Ham,Dr. Seuss,2.98,13/10/2022
+1653, Mythology,The Odyssey,Homer,3.65,13/10/2022
+1654, Adventure,Life of Pi,Yann Martel,2.86,13/10/2022
+1655, Literature,A Tale of Two Cities,Charles Dickens,1.12,13/10/2022
+1656, Historical,Water for Elephants,Sara Gruen,3.46,13/10/2022
+1657, War,Slaughterhouse-Five,Kurt Vonnegut Jr.,8.5,13/10/2022
+1658, Science Fiction,Frankenstein: The 1818 Text,Mary Wollstonecraft Shelley,8.75,13/10/2022
+1659, Dystopia,The Giver,Lois Lowry,7.15,13/10/2022
+1660, Historical Fiction,Catch-22,Joseph Heller,3.32,13/10/2022
+1661, Classics,Dune,Frank Herbert,29.34,13/10/2022
+1662, Science Fiction,The Stand,Stephen King,8.38,13/10/2022
+1663, Young Adult,Watership Down,Richard Adams,5.25,13/10/2022
+1664, Historical Fiction,Great Expectations,Charles Dickens,0.85,13/10/2022
+1665, Young Adult,Little Women,Louisa May Alcott,5.51,13/10/2022
+1666, Magic,Harry Potter and the Deathly Hallows,J.K. Rowling,2.85,13/10/2022
+1667, Fiction,Outlander,Diana Gabaldon,5.98,13/10/2022
+1668, Young Adult,My Sisters Keeper,Jodi Picoult,2.76,13/10/2022
+1669, Fantasy,Matilda,Roald Dahl,6.01,13/10/2022
+1670, Feminism,The Color Purple,Alice Walker,13.75,13/10/2022
+1671, Young Adult,A Tree Grows in Brooklyn,Betty Smith,5.01,13/10/2022
+1672, Dystopia,A Clockwork Orange,Anthony Burgess,13.05,13/10/2022
+1673, Post Apocalyptic,The Road,Cormac McCarthy,6.83,13/10/2022
+1674, Literature,The Brothers Karamazov,Fyodor Dostoyevsky,5.51,13/10/2022
+1675, Classics,Angelas Ashes,Frank McCourt,2.76,13/10/2022
+1676, Paranormal,Vampire Academy,Richelle Mead,3.33,13/10/2022
+1677, Classics,The Poisonwood Bible,Barbara Kingsolver,4.12,13/10/2022
+1678, Childrens,The Golden Compass,Philip Pullman,1.61,13/10/2022
+1679, Spanish Literature,Don Quixote,Miguel de Cervantes Saavedra,9.04,13/10/2022
+1680, Politics,Atlas Shrugged,Ayn Rand,4.41,13/10/2022
+1681, Magic,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,5.94,13/10/2022
+1682, Novels,The Old Man and the Sea,Ernest Hemingway,15.63,13/10/2022
+1683, Fantasy,Winnie-the-Pooh,A.A. Milne,5.3,13/10/2022
+1684, Fiction,The Complete Stories and Poems,Edgar Allan Poe,5.27,13/10/2022
+1685, Vampires,Interview with the Vampire,Anne Rice,2.66,13/10/2022
+1686, Literature,A Prayer for Owen Meany,John Irving,2.86,13/10/2022
+1687, Adventure,Moby-Dick or,Herman Melville,1.87,13/10/2022
+1688, Religion,The Red Tent,Anita Diamant,5.26,13/10/2022
+1689, Classics,The Secret Life of Bees,Sue Monk Kidd,3.5,13/10/2022
+1690, Romance,Clockwork Angel,Cassandra Clare,4.62,13/10/2022
+1691, Crime,And Then There Were None,Agatha Christie,4.82,13/10/2022
+1692, LGBT,Middlesex,Jeffrey Eugenides,3.11,13/10/2022
+1693, Fantasy,The Master and Margarita,Mikhail Bulgakov,13.56,13/10/2022
+1694, High Fantasy,The Name of the Wind,Patrick Rothfuss,9.36,13/10/2022
+1695, Classics,The Shining,Stephen King,7.59,13/10/2022
+1696, Young Adult,The Adventures of Tom Sawyer,Mark Twain,3.36,13/10/2022
+1697, Dragons,Eragon,Christopher Paolini,2.86,13/10/2022
+1698, Classics,Charlie and the Chocolate Factory,Roald Dahl,1.13,13/10/2022
+1699, Literature,On the Road,Jack Kerouac,1.91,13/10/2022
+1700, Contemporary,The Curious Incident of the Dog in the Night-Time,Mark Haddon,2.94,13/10/2022
+1701, Classics,The Very Hungry Caterpillar,Eric Carle,2.42,13/10/2022
+1702, Inspirational,Tuesdays with Morrie,Mitch Albom,3.27,13/10/2022
+1703, Literature,The Unbearable Lightness of Being,Milan Kundera,11.62,13/10/2022
+1704, Classics,The Name of the Rose,Umberto Eco,4.07,13/10/2022
+1705, Childrens,Where the Red Fern Grows,Wilson Rawls,5.4,13/10/2022
+1706, Magic,Harry Potter and the Chamber of Secrets,J.K. Rowling,4.17,13/10/2022
+1707, School,The Scarlet Letter,Nathaniel Hawthorne,1.91,13/10/2022
+1708, Crime,In Cold Blood,Truman Capote,6.58,13/10/2022
+1709, Thriller,Fight Club,Chuck Palahniuk,10.16,13/10/2022
+1710, Fantasy,The Five People You Meet in Heaven,Mitch Albom,3.57,13/10/2022
+1711, Paranormal,Hush,Becca Fitzpatrick,2.55,13/10/2022
+1712, Fiction,The Cat in the Hat,Dr. Seuss,0.85,13/10/2022
+1713, Adventure,The Count of Monte Cristo,Alexandre Dumas,6.13,13/10/2022
+1714, Classics,Lonesome Dove,Larry McMurtry,4.55,13/10/2022
+1715, Horror,Perfume: The Story of a Murderer,Patrick Süskind,2.6,13/10/2022
+1716, Middle Grade,Holes,Louis Sachar,3.1,13/10/2022
+1717, Science Fiction,Watchmen,Alan Moore,4.85,13/10/2022
+1718, Fantasy,It,Stephen King,5.71,13/10/2022
+1719, Fiction,The Last Olympian,Rick Riordan,7.44,22/01/2023
+1720, Literature,The Divine Comedy,Dante Alighieri,13.66,22/01/2023
+1721, Childrens,Peter Pan,J.M. Barrie,5.26,22/01/2023
+1722, War,All Quiet on the Western Front,Erich Maria Remarque,2.32,22/01/2023
+1723, Adventure,The Hobbit,J.R.R. Tolkien,4.68,22/01/2023
+1724, Fiction,The Compleat Works of Wllm Shkspr (abridged),Reduced Shakespeare Company,3.17,22/01/2023
+1725, Romance,Love in the Time of Cholera,Gabriel García Márquez,3.36,22/01/2023
+1726, Paranormal,Shadow Kiss,Richelle Mead,2.76,22/01/2023
+1727, Fantasy,The Ultimate Hitchhikers Guide to the Galaxy,Douglas Adams,2.76,22/01/2023
+1728, Classics,Atonement,Ian McEwan,2.86,22/01/2023
+1729, Drama,The Importance of Being Earnest,Oscar Wilde,5.26,22/01/2023
+1730, Biography,Eat Pray Love,Elizabeth Gilbert,5.56,22/01/2023
+1731, School,Their Eyes Were Watching God,Zora Neale Hurston,14.2,22/01/2023
+1732, Childrens,The Wonderful Wizard of Oz,L. Frank Baum,1.45,22/01/2023
+1733, Fiction,Goodnight Moon,Margaret Wise Brown,5.69,22/01/2023
+1734, Classics,The Lorax,Dr. Seuss,41.26,22/01/2023
+1735, Paranormal,Blood Promise,Richelle Mead,3.73,22/01/2023
+1736, China,The Good Earth,Pearl S. Buck,5.27,22/01/2023
+1737, Africa,Heart of Darkness,Joseph Conrad,7.19,22/01/2023
+1738, Drama,A Midsummer Nights Dream,William Shakespeare,3,22/01/2023
+1739, Paranormal,Clockwork Princess,Cassandra Clare,4,22/01/2023
+1740, Fiction,The Prophet,Kahlil Gibran,5.8,22/01/2023
+1741, Fiction,The Titans Curse,Rick Riordan,3.43,22/01/2023
+1742, Fiction,The Sea of Monsters,Rick Riordan,1.91,22/01/2023
+1743, China,The Joy Luck Club,Amy Tan,4.74,22/01/2023
+1744, Childrens,Alice in Wonderland,Jane Carruth (Adapted By),5.26,22/01/2023
+1745, Young Adult,The Call of the Wild,Jack London,5.38,22/01/2023
+1746, Fantasy,Jonathan Livingston Seagull,Richard Bach,4.55,22/01/2023
+1747, Literature,Madame Bovary,Gustave Flaubert,1.45,22/01/2023
+1748, Classics,The Phantom Tollbooth,Norton Juster,5.79,22/01/2023
+1749, Dystopia,The Hunger Games Trilogy Boxset,Suzanne Collins,4.09,22/01/2023
+1750, Classics,Oh the Places Youll Go!,Dr. Seuss,5.01,22/01/2023
+1751, Crime,The Girl Who Played with Fire,Stieg Larsson,3.25,22/01/2023
+1752, Fiction,The Maze Runner,James Dashner,3.17,22/01/2023
+1753, Young Adult,The Neverending Story,Michael Ende,7.54,22/01/2023
+1754, Young Adult,Treasure Island,Robert Louis Stevenson,5.6,22/01/2023
+1755, Science Fiction Fantasy,A Storm of Swords,George R.R. Martin,3.57,22/01/2023
+1756, Literature,The Canterbury Tales,Geoffrey Chaucer,3.9,22/01/2023
+1757, War,A Farewell to Arms,Ernest Hemingway,0.91,22/01/2023
+1758, Realistic Fiction,Tote Mädchen lügen nicht,Jay Asher,3.86,22/01/2023
+1759, Science Fiction Fantasy,Wicked: The Life and Times of the Wicked Witch of the West,Gregory Maguire,2.76,22/01/2023
+1760, Historical,Shōgun,James Clavell,7.04,22/01/2023
+1761, Novels,Extremely Loud & Incredibly Close,Jonathan Safran Foer,2.41,22/01/2023
+1762, Crime,Murder on the Orient Express,Agatha Christie,2.56,22/01/2023
+1763, Childrens,His Dark Materials,Philip Pullman,3.57,22/01/2023
+1764, Young Adult,A Little Princess,Frances Hodgson Burnett,2.87,22/01/2023
+1765, Holocaust,Schindlers List,Thomas Keneally,0.85,22/01/2023
+1766, Paranormal,Last Sacrifice,Richelle Mead,3.8,22/01/2023
+1767, Historical Fiction,The Night Circus,Erin Morgenstern,7.02,22/01/2023
+1768, Paranormal,Fallen,Lauren Kate,4.64,22/01/2023
+1769, High Fantasy,The Silmarillion,J.R.R. Tolkien,17.07,22/01/2023
+1770, Historical,The Secret Magdalene,Ki Longfellow,5.6,22/01/2023
+1771, Magical Realism,Beloved,Toni Morrison,3.8,22/01/2023
+1772, Literature,A Confederacy of Dunces,John Kennedy Toole,5.91,22/01/2023
+1773, Fantasy,The Selection,Kiera Cass,5.01,22/01/2023
+1774, Picture Books,The Velveteen Rabbit,Margery Williams Bianco,5.9,22/01/2023
+1775, Fantasy,Catching Fire,Suzanne Collins,3.66,22/01/2023
+1776, Fiction,The Lost Hero,Rick Riordan,10.25,22/01/2023
+1777, Paranormal,Spirit Bound,Richelle Mead,4.59,22/01/2023
+1778, Paranormal,Clockwork Prince,Cassandra Clare,5.69,22/01/2023
+1779, Mythology,The Iliad/The Odyssey,Homer,6.15,22/01/2023
+1780, Historical Fiction,The Crucible,Arthur Miller,3.98,22/01/2023
+1781, Humor,Cats Cradle,Kurt Vonnegut Jr.,5.69,22/01/2023
+1782, Contemporary,The God of Small Things,Arundhati Roy,3.17,22/01/2023
+1783, Fantasy,The Wind in the Willows,Kenneth Grahame,4.18,22/01/2023
+1784, Classics,Girl with a Pearl Earring,Tracy Chevalier,2.86,22/01/2023
+1785, Christian,The Hiding Place: The Triumphant True Story of Corrie Ten Boom,Corrie ten Boom,4.17,22/01/2023
+1786, Fiction,A Light in the Attic,Shel Silverstein,12.08,22/01/2023
+1787, Mystery,The Silence of the Lambs,Thomas Harris,3.11,22/01/2023
+1788, Paranormal,Shiver,Maggie Stiefvater,7.05,22/01/2023
+1789, Fiction,Uglies,Scott Westerfeld,3.58,22/01/2023
+1790, Romance,City of Fallen Angels,Cassandra Clare,4.75,22/01/2023
+1791, History,Mans Search for Meaning,Viktor E. Frankl,7.37,22/01/2023
+1792, Adult Fiction,Shes Come Undone,Wally Lamb,1.91,22/01/2023
+1793, Romance,The Phantom of the Opera,Gaston Leroux,2.86,22/01/2023
+1794, Dogs,Marley and Me: Life and Love With the Worlds Worst Dog,John Grogan,5.29,22/01/2023
+1795, Romance,Ella Enchanted,Gail Carson Levine,1.91,22/01/2023
+1796, Japanese Literature,The Wind-Up Bird Chronicle,Haruki Murakami,22.25,22/01/2023
+1797, Thriller,The Green Mile,Stephen King,17.56,22/01/2023
+1798, Science Fiction Fantasy,A Clash of Kings,George R.R. Martin,1.91,22/01/2023
+1799, Paranormal,Marked,P.C. Cast,1.79,22/01/2023
+1800, Romance,The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer,3.65,22/01/2023
+1801, Journalism,Fear and Loathing in Las Vegas,Hunter S. Thompson,5.69,22/01/2023
+1802, Classics,The House of the Spirits,Isabel Allende,3.32,22/01/2023
+1803, Fiction,The Complete Calvin and Hobbes,Bill Watterson,110.67,22/01/2023
+1804, Historical,Roots: The Saga of an American Family,Alex Haley,3.1,22/01/2023
+1805, Suspense,Misery,Stephen King,1.12,22/01/2023
+1806, Romance,Howls Moving Castle,Diana Wynne Jones,5.95,22/01/2023
+1807, Science Fiction Fantasy,Stranger in a Strange Land,Robert A. Heinlein,6.4,22/01/2023
+1808, Crime,The Girl Who Kicked the Hornets Nest,Stieg Larsson,1.64,22/01/2023
+1809, Literary Fiction,The Secret History,Donna Tartt,9.11,22/01/2023
+1810, Adult Fiction,White Oleander,Janet Fitch,4.89,22/01/2023
+1811, Science Fiction,Delirium,Lauren Oliver,2.86,22/01/2023
+1812, Drama,Othello,William Shakespeare,6.76,22/01/2023
+1813, Historical,Flow Down Like Silver: Hypatia of Alexandria,Ki Longfellow,8.08,22/01/2023
+1814, Romance,Paper Towns,John Green,1.61,22/01/2023
+1815, Fiction,The Vampire Lestat,Anne Rice,5.68,22/01/2023
+1816, Realistic Fiction,Speak,Laurie Halse Anderson,5.07,22/01/2023
+1817, Russian Literature,The Idiot,Fyodor Dostoyevsky,5.46,22/01/2023
+1818, Fiction,King Lear,William Shakespeare,3.78,22/01/2023
+1819, Historical Fiction,The Once and Future King,T.H. White,2.66,22/01/2023
+1820, Literary Fiction,I Know This Much Is True,Wally Lamb,2.94,22/01/2023
+1821, Science Fiction Fantasy,Neverwhere,Neil Gaiman,4.66,22/01/2023
+1822, Adventure,Into the Wild,Jon Krakauer,3.75,22/01/2023
+1823, Childrens,Inkheart,Cornelia Funke,3.52,22/01/2023
+1824, Fantasy,Lamb: The Gospel According to Biff,Christopher Moore,3.56,22/01/2023
+1825, Crime,The Complete Sherlock Holmes,Arthur Conan Doyle,11.24,22/01/2023
+1826, France,Candide,Voltaire,1.45,22/01/2023
+1827, Classics,James and the Giant Peach,Roald Dahl,5.4,22/01/2023
+1828, History,Blood River: A Journey to Africas Broken Heart,Tim Butcher,2.76,22/01/2023
+1829, Literature,Paradise Lost,John Milton,1.91,22/01/2023
+1830, Classics,All Creatures Great and Small,James Herriot,2.63,22/01/2023
+1831, Plays,The Complete Works,William Shakespeare,4.44,22/01/2023
+1832, Gothic,The Thirteenth Tale,Diane Setterfield,1.76,22/01/2023
+1833, Science Fiction Fantasy,Foundation,Isaac Asimov,15.29,22/01/2023
+1834, Japanese Literature,Norwegian Wood,Haruki Murakami,13,22/01/2023
+1835, Classics,The Things They Carried,Tim OBrien,3.32,22/01/2023
+1836, Literature,The Cider House Rules,John Irving,5.14,22/01/2023
+1837, Thriller,Different Seasons,Stephen King,3.11,22/01/2023
+1838, Fantasy,Kafka on the Shore,Haruki Murakami,8.22,22/01/2023
+1839, Young Adult,Heidi,Johanna Spyri,2.49,22/01/2023
+1840, Classics,Are You There God? Its Me,Judy Blume,11.9,22/01/2023
+1841, Romance,City of Lost Souls,Cassandra Clare,5.26,22/01/2023
+1842, Young Adult,Sophies World,Jostein Gaarder,3.43,22/01/2023
+1843, High Fantasy,The Wise Mans Fear,Patrick Rothfuss,16.37,22/01/2023
+1844, School,The Awakening,Kate Chopin,10.36,22/01/2023
+1845, Holocaust,Sophies Choice,William Styron,4.08,22/01/2023
+1846, Romance,The Prince of Tides,Pat Conroy,7.15,22/01/2023
+1847, Contemporary,Never Let Me Go,Kazuo Ishiguro,6.46,22/01/2023
+1848, Fiction,The Son of Neptune,Rick Riordan,6.42,22/01/2023
+1849, Urban Fantasy,Dead Until Dark,Charlaine Harris,3.16,22/01/2023
+1850, Classics,Fried Green Tomatoes at the Whistle Stop Cafe,Fannie Flagg,16.54,22/01/2023
+1851, BDSM,Fifty Shades Darker,E.L. James,6.33,22/01/2023
+1852, Fantasy,Ready Player One,Ernest Cline,16.53,22/01/2023
+1853, Literature,Middlemarch,George Eliot,5.49,22/01/2023
+1854, Humor,The Monster at the End of this Book,Jon Stone,5.46,22/01/2023
+1855, Humor,Bridget Joness Diary,Helen Fielding,4.48,22/01/2023
+1856, Novels,Mrs. Dalloway,Virginia Woolf,1.33,22/01/2023
+1857, Fantasy,Mockingjay,Suzanne Collins,3.43,22/01/2023
+1858, Literature,Franny and Zooey,J.D. Salinger,4.19,22/01/2023
+1859, Classics,The Power of One,Bryce Courtenay,4,22/01/2023
+1860, Young Adult,The Magicians Nephew,C.S. Lewis,2.86,22/01/2023
+1861, Young Adult,Stardust,Neil Gaiman,6.7,22/01/2023
+1862, Classics,Number the Stars,Lois Lowry,8.29,22/01/2023
+1863, Science Fiction,Allegiant,Veronica Roth,2.76,22/01/2023
+1864, Fiction,Eleanor & Park,Rainbow Rowell,1.06,22/01/2023
+1865, Audiobook,A Short History of Nearly Everything,Bill Bryson,2.17,22/01/2023
+1866, Chick Lit,Me Before You,Jojo Moyes,3.14,22/01/2023
+1867, Fiction,The Mark of Athena,Rick Riordan,5.11,22/01/2023
+1868, Dogs,The Art of Racing in the Rain,Garth Stein,5.27,22/01/2023
+1869, High Fantasy,The Way of Kings,Brandon Sanderson,22.74,22/01/2023
+1870, Fiction,If I Stay,Gayle Forman,3.82,22/01/2023
+1871, Animals,Black Beauty,Anna Sewell,3.16,22/01/2023
+1872, Irish Literature,A Portrait of the Artist as a Young Man,James Joyce,5.87,22/01/2023
+1873, Adventure,Gullivers Travels,Jonathan Swift,3.27,22/01/2023
+1874, Book Club,Bel Canto,Ann Patchett,2.86,22/01/2023
+1875, Classics,American Psycho,Bret Easton Ellis,3.34,22/01/2023
+1876, Dystopia,V for Vendetta,Alan Moore,14.65,22/01/2023
+1877, Classics,Love You Forever,Robert Munsch,3.46,22/01/2023
+1878, Classics,The Witches,Roald Dahl,3.84,22/01/2023
+1879, Horror,The Graveyard Book,Neil Gaiman,3.87,22/01/2023
+1880, Historical Fiction,The Complete Novels,Jane Austen,2.76,22/01/2023
+1881, BDSM,Fifty Shades Freed,E.L. James,4,22/01/2023
+1882, Romance,Cold Mountain,Charles Frazier,4.21,22/01/2023
+1883, Animals,White Fang,Jack London,3.16,22/01/2023
+1884, Fantasy,Beowulf,Unknown,4.55,22/01/2023
+1885, Fiction,Tuck Everlasting,Natalie Babbitt,3.1,22/01/2023
+1886, High Fantasy,The Final Empire,Brandon Sanderson,20.93,22/01/2023
+1887, Romance,Beautiful Creatures,Kami Garcia,6.29,22/01/2023
+1888, German Literature,Steppenwolf,Hermann Hesse,2.71,22/01/2023
+1889, Dragons,Eldest,Christopher Paolini,3.11,22/01/2023
+1890, Paranormal Romance,Dark Lover,J.R. Ward,3.89,22/01/2023
+1891, Contemporary,Go Ask Alice,Beatrice Sparks (as Anonymous),2.98,22/01/2023
+1892, High Fantasy,The Eye of the World,Robert Jordan,5.13,22/01/2023
+1893, Short Stories,The Tell-Tale Heart and Other Writings,Edgar Allan Poe,5.58,22/01/2023
+1894, Novels,As I Lay Dying,William Faulkner,3.81,22/01/2023
+1895, Historical Fiction,A Separate Peace,John Knowles,2.82,22/01/2023
+1896, History,The Complete Maus,Art Spiegelman,13.84,22/01/2023
+1897, Historical Fiction,Mansfield Park,Jane Austen,3.11,22/01/2023
+1898, Literature,The Amazing Adventures of Kavalier & Clay,Michael Chabon,3.76,22/01/2023
+1899, Dragons,Brisingr,Christopher Paolini,3.92,22/01/2023
+1900, Psychology,A Child Called It,Dave Pelzer,2.93,22/01/2023
+1901, Realistic Fiction,Stargirl,Jerry Spinelli,2.25,22/01/2023
+1902, Classics,Tao Te Ching,Lao Tzu,8,22/01/2023
+1903, Contemporary,Dear John,Nicholas Sparks,1.64,22/01/2023
+1904, Classics,Midnights Children,Salman Rushdie,0.85,22/01/2023
+1905, Fantasy,Salems Lot,Stephen King,1.12,22/01/2023
+1906, Short Stories,The Martian Chronicles,Ray Bradbury,3.63,22/01/2023
+1907, Paranormal,Crescendo,Becca Fitzpatrick,5.8,22/01/2023
+1908, Romance,The English Patient,Michael Ondaatje,16.05,22/01/2023
+1909, Literature,East of Eden,John Steinbeck,5.26,22/01/2023
+1910, Historical Fiction,Cloud Atlas,David Mitchell,1.15,22/01/2023
+1911, Spirituality,Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values,Robert M. Pirsig,4.41,22/01/2023
+1912, Adventure,The Martian,Andy Weir,2.63,22/01/2023
+1913, Suspense,The Firm,John Grisham,3.09,22/01/2023
+1914, Contemporary,The Last Song,Nicholas Sparks,3.28,22/01/2023
+1915, Literature,My Ántonia,Willa Cather,2.86,22/01/2023
+1916, Romance,Shatter Me,Tahereh Mafi,4.81,22/01/2023
+1917, Science Fiction,The Amber Spyglass,Philip Pullman,1.64,22/01/2023
+1918, Russia,Doctor Zhivago,Boris Pasternak,6.56,22/01/2023
+1919, France,The Hunchback of Notre-Dame,Victor Hugo,3.32,10/08/2023
+1920, Literature,Inferno,Dante Alighieri,5.34,10/08/2023
+1921, Historical Fiction,Like Water for Chocolate,Laura Esquivel,2.6,10/08/2023
+1922, Fiction,Dragonfly in Amber,Diana Gabaldon,4.8,10/08/2023
+1923, Humor,Breakfast of Champions,Kurt Vonnegut Jr.,2.82,10/08/2023
+1924, Classics,The BFG,Roald Dahl,2.75,10/08/2023
+1925, Young Adult Fantasy,Six of Crows,Leigh Bardugo,5.78,10/08/2023
+1926, Magic,Harry Potter Series Box Set,J.K. Rowling,77.25,10/08/2023
+1927, Biology,The Origin of Species,Charles Darwin,5.58,10/08/2023
+1928, Canada,A Fine Balance,Rohinton Mistry,7.31,10/08/2023
+1929, Paranormal,Daughter of Smoke & Bone,Laini Taylor,4.99,10/08/2023
+1930, Science Fiction,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,3.35,10/08/2023
+1931, Paranormal,City of Heavenly Fire,Cassandra Clare,8.37,10/08/2023
+1932, Romance,Evermore,Alyson Noel,1.45,10/08/2023
+1933, Drama,Death of a Salesman,Arthur Miller,3.92,10/08/2023
+1934, Time Travel,11/22/63,Stephen King,6.21,10/08/2023
+1935, Crime,Midnight in the Garden of Good and Evil,John Berendt,4.43,10/08/2023
+1936, Fiction,A Streetcar Named Desire,Tennessee Williams,5.26,10/08/2023
+1937, Novels,Infinite Jest,David Foster Wallace,10.18,10/08/2023
+1938, Politics,The Prince,Niccolò Machiavelli,5.68,10/08/2023
+1939, Drama,Hamlet,William Shakespeare,2.2,10/08/2023
+1940, Poetry,Faust,Johann Wolfgang von Goethe,6.32,10/08/2023
+1941, Chick Lit,Anna and the French Kiss,Stephanie Perkins,3.11,10/08/2023
+1942, Science Fiction Fantasy,A Feast for Crows,George R.R. Martin,5,10/08/2023
+1943, Fiction,The Angel Experiment,James Patterson,3.43,10/08/2023
+1944, Science Fiction,Matched,Ally Condie,1.64,10/08/2023
+1945, Mystery,Flowers in the Attic,V.C. Andrews,8.77,10/08/2023
+1946, Canada,The Shipping News,Annie Proulx,1.29,10/08/2023
+1947, World War II,Unbroken: A World War II Story of Survival,Laura Hillenbrand,1.15,10/08/2023
+1948, Young Adult,The Chosen,Chaim Potok,2,10/08/2023
+1949, Humor,High Fidelity,Nick Hornby,2.58,10/08/2023
+1950, War,All the Light We Cannot See,Anthony Doerr,4.45,10/08/2023
+1951, Mystery,Houdini Heart,Ki Longfellow,4.58,10/08/2023
+1952, Middle Grade,Artemis Fowl,Eoin Colfer,4.97,10/08/2023
+1953, Young Adult,Pippi Longstocking,Astrid Lindgren,6.7,10/08/2023
+1954, Short Stories,The Tales of Beedle the Bard,J.K. Rowling,1.79,10/08/2023
+1955, Young Adult,The Virgin Suicides,Jeffrey Eugenides,2.67,10/08/2023
+1956, Classics,The Reader,Bernhard Schlink,3.16,10/08/2023
+1957, Adult,Nineteen Minutes,Jodi Picoult,2.66,10/08/2023
+1958, Fiction,The House of Hades,Rick Riordan,8,10/08/2023
+1959, Adventure,Shantaram,Gregory David Roberts,5.97,10/08/2023
+1960, Crime,The Devil in the White City: Murder,Erik Larson,6.78,10/08/2023
+1961, Romance,Redeeming Love,Francine Rivers,3.81,10/08/2023
+1962, Romance,The Age of Innocence,Edith Wharton,3.77,10/08/2023
+1963, Romance,The Host,Stephenie Meyer,3.89,10/08/2023
+1964, Mystery Thriller,The Lost Symbol,Dan Brown,0.85,10/08/2023
+1965, Paranormal,Betrayed,P.C. Cast,3.38,10/08/2023
+1966, Literature,The Grapes of Wrath,John Steinbeck,27.35,10/08/2023
+1967, Historical Fiction,Northanger Abbey,Jane Austen,0.85,10/08/2023
+1968, Young Adult,The Voyage of the Dawn Treader,C.S. Lewis,7.83,10/08/2023
+1969, Ireland,Dubliners,James Joyce,2.74,10/08/2023
+1970, Paranormal Romance,Lover Awakened,J.R. Ward,2.5,10/08/2023
+1971, New Adult,A Court of Thorns and Roses,Sarah J. Maas,18.9,10/08/2023
+1972, Adult Fiction,Divine Secrets of the Ya-Ya Sisterhood,Rebecca Wells,1.71,10/08/2023
+1973, Literature,The Waste Land,T.S. Eliot,5.26,10/08/2023
+1974, Paranormal,Untamed,P.C. Cast,2.87,10/08/2023
+1975, Novels,Everything Is Illuminated,Jonathan Safran Foer,1.45,10/08/2023
+1976, Magic,Crown of Midnight,Sarah J. Maas,18.19,10/08/2023
+1977, Biography,I Know Why the Caged Bird Sings,Maya Angelou,4.64,10/08/2023
+1978, Short Stories,I Robot,Isaac Asimov,8.99,10/08/2023
+1979, Romance,The Twilight Collection,Stephenie Meyer,28.05,10/08/2023
+1980, School,The Pearl,John Steinbeck,12.38,10/08/2023
+1981, Fantasy,The One,Kiera Cass,3.39,10/08/2023
+1982, Literature,The Jungle,Upton Sinclair,2.94,10/08/2023
+1983, Paranormal,Carrie,Stephen King,7.01,10/08/2023
+1984, Historical,Snow Falling on Cedars,David Guterson,1.79,10/08/2023
+1985, Fiction,Voyager,Diana Gabaldon,5.97,10/08/2023
+1986, Historical,I Claudius,Robert Graves,3.38,10/08/2023
+1987, Magic,Heir of Fire,Sarah J. Maas,8.99,10/08/2023
+1988, Essays,Me Talk Pretty One Day,David Sedaris,1.44,10/08/2023
+1989, Paranormal,Chosen,P.C. Cast,1.79,10/08/2023
+1990, Historical Fiction,A Room with a View,E.M. Forster,9.24,10/08/2023
+1991, 19th Century,Bleak House,Charles Dickens,5.51,10/08/2023
+1992, Politics,The Republic,Plato,2.85,10/08/2023
+1993, Young Adult,The Last Battle,C.S. Lewis,1.79,10/08/2023
+1994, Paranormal,The Exorcist,William Peter Blatty,6.49,10/08/2023
+1995, Drama,The Elephant Tree,R.D. Ronald,5.42,10/08/2023
+1996, Young Adult,Coraline,Neil Gaiman,11.55,10/08/2023
+1997, Literature,Demian: Die Geschichte von Emil Sinclairs Jugend,Hermann Hesse,3.56,10/08/2023
+1998, Fiction,The 5th Wave,Rick Yancey,1.64,10/08/2023
+1999, Paranormal,The Iron King,Julie Kagawa,3.81,10/08/2023
+2000, Novels,Quantum Roots II: Worm Holes,Kyle Keyes,14.36,10/08/2023
+2001, Romance,Aristotle and Dante Discover the Secrets of the Universe,Benjamin Alire Sáenz,19.17,10/08/2023
+2002, Fantasy,The Hunger Games,Suzanne Collins,5.09,13/10/2022
+2003, Magic,Harry Potter and the Order of the Phoenix,J.K. Rowling,7.38,13/10/2022
+2004, Vampires,Twilight,Stephenie Meyer,2.1,13/10/2022
+2005, Historical,The Book Thief,Markus Zusak,3.8,13/10/2022
+2006, Fantasy,Animal Farm,George Orwell,4.42,13/10/2022
+2007, Adventure,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,21.15,13/10/2022
+2008, Romance,Gone with the Wind,Margaret Mitchell,5.58,13/10/2022
+2009, Fiction,The Giving Tree,Shel Silverstein,4.87,13/10/2022
+2010, Gothic,Wuthering Heights,Emily Brontë,2.73,13/10/2022
+2011, Historical,Memoirs of a Geisha,Arthur Golden,2.76,13/10/2022
+2012, Childrens,Alices Adventures in Wonderland & Through the Looking-Glass,Lewis Carroll,3.07,13/10/2022
+2013, Historical Fiction,Jane Eyre,Charlotte Brontë,5.46,13/10/2022
+2014, Fantasy,Divergent,Veronica Roth,0.88,13/10/2022
+2015, School,Lord of the Flies,William Golding,1.89,13/10/2022
+2016, Romance,Romeo and Juliet,William Shakespeare,6.79,13/10/2022
+2017, Philosophy,The Alchemist,Paulo Coelho,13.22,13/10/2022
+2018, Literature,Crime and Punishment,Fyodor Dostoyevsky,18.85,13/10/2022
+2019, Romance,City of Bones,Cassandra Clare,6.29,13/10/2022
+2020, Fantasy,Enders Game,Orson Scott Card,4.6,13/10/2022
+2021, Childrens,Anne of Green Gables,L.M. Montgomery,6.07,13/10/2022
+2022, Young Adult,Charlottes Web,E.B. White,6.15,13/10/2022
+2023, Historical Fiction,Of Mice and Men,John Steinbeck,5.75,13/10/2022
+2024, Fantasy,Dracula,Bram Stoker,4.55,13/10/2022
+2025, Dystopia,Brave New World,Aldous Huxley,3.78,13/10/2022
+2026, Literature,The Catcher in the Rye,J.D. Salinger,2.6,13/10/2022
+2027, Romance,The Princess Bride,William Goldman,6.23,13/10/2022
+2028, Fiction,The Lightning Thief,Rick Riordan,1.79,13/10/2022
+2029, Young Adult,The Secret Garden,Frances Hodgson Burnett,3.33,13/10/2022
+2030, Novels,A Thousand Splendid Suns,Khaled Hosseini,1.16,13/10/2022
+2031, Young Adult,A Wrinkle in Time,Madeleine LEngle,4.8,13/10/2022
+2032, Adult,A Game of Thrones,George R.R. Martin,4.01,13/10/2022
+2033, Literature,The Adventures of Huckleberry Finn,Mark Twain,6.99,13/10/2022
+2034, Contemporary,The Lovely Bones,Alice Sebold,1.91,13/10/2022
+2035, Classics,Where the Wild Things Are,Maurice Sendak,3.67,13/10/2022
+2036, Fiction,Green Eggs and Ham,Dr. Seuss,2.98,13/10/2022
+2037, Mythology,The Odyssey,Homer,3.65,13/10/2022
+2038, Adventure,Life of Pi,Yann Martel,2.86,13/10/2022
+2039, Literature,A Tale of Two Cities,Charles Dickens,1.12,13/10/2022
+2040, Historical,Water for Elephants,Sara Gruen,3.46,13/10/2022
+2041, War,Slaughterhouse-Five,Kurt Vonnegut Jr.,8.5,13/10/2022
+2042, Science Fiction,Frankenstein: The 1818 Text,Mary Wollstonecraft Shelley,8.75,13/10/2022
+2043, Dystopia,The Giver,Lois Lowry,7.15,13/10/2022
+2044, Historical Fiction,Catch-22,Joseph Heller,3.32,13/10/2022
+2045, Classics,Dune,Frank Herbert,29.34,13/10/2022
+2046, Science Fiction,The Stand,Stephen King,8.38,13/10/2022
+2047, Young Adult,Watership Down,Richard Adams,5.25,13/10/2022
+2048, Historical Fiction,Great Expectations,Charles Dickens,0.85,13/10/2022
+2049, Young Adult,Little Women,Louisa May Alcott,5.51,13/10/2022
+2050, Magic,Harry Potter and the Deathly Hallows,J.K. Rowling,2.85,13/10/2022
+2051, Fiction,Outlander,Diana Gabaldon,5.98,13/10/2022
+2052, Young Adult,My Sisters Keeper,Jodi Picoult,2.76,13/10/2022
+2053, Fantasy,Matilda,Roald Dahl,6.01,13/10/2022
+2054, Feminism,The Color Purple,Alice Walker,13.75,13/10/2022
+2055, Young Adult,A Tree Grows in Brooklyn,Betty Smith,5.01,13/10/2022
+2056, Dystopia,A Clockwork Orange,Anthony Burgess,13.05,13/10/2022
+2057, Post Apocalyptic,The Road,Cormac McCarthy,6.83,13/10/2022
+2058, Literature,The Brothers Karamazov,Fyodor Dostoyevsky,5.51,13/10/2022
+2059, Classics,Angelas Ashes,Frank McCourt,2.76,13/10/2022
+2060, Paranormal,Vampire Academy,Richelle Mead,3.33,13/10/2022
+2061, Classics,The Poisonwood Bible,Barbara Kingsolver,4.12,13/10/2022
+2062, Childrens,The Golden Compass,Philip Pullman,1.61,13/10/2022
+2063, Spanish Literature,Don Quixote,Miguel de Cervantes Saavedra,9.04,13/10/2022
+2064, Politics,Atlas Shrugged,Ayn Rand,4.41,13/10/2022
+2065, Magic,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,5.94,13/10/2022
+2066, Novels,The Old Man and the Sea,Ernest Hemingway,15.63,13/10/2022
+2067, Fantasy,Winnie-the-Pooh,A.A. Milne,5.3,13/10/2022
+2068, Fiction,The Complete Stories and Poems,Edgar Allan Poe,5.27,13/10/2022
+2069, Vampires,Interview with the Vampire,Anne Rice,2.66,13/10/2022
+2070, Literature,A Prayer for Owen Meany,John Irving,2.86,13/10/2022
+2071, Adventure,Moby-Dick or,Herman Melville,1.87,13/10/2022
+2072, Religion,The Red Tent,Anita Diamant,5.26,13/10/2022
+2073, Classics,The Secret Life of Bees,Sue Monk Kidd,3.5,13/10/2022
+2074, Romance,Clockwork Angel,Cassandra Clare,4.62,13/10/2022
+2075, Crime,And Then There Were None,Agatha Christie,4.82,13/10/2022
+2076, LGBT,Middlesex,Jeffrey Eugenides,3.11,13/10/2022
+2077, Fantasy,The Master and Margarita,Mikhail Bulgakov,13.56,13/10/2022
+2078, High Fantasy,The Name of the Wind,Patrick Rothfuss,9.36,13/10/2022
+2079, Classics,The Shining,Stephen King,7.59,13/10/2022
+2080, Young Adult,The Adventures of Tom Sawyer,Mark Twain,3.36,13/10/2022
+2081, Dragons,Eragon,Christopher Paolini,2.86,13/10/2022
+2082, Classics,Charlie and the Chocolate Factory,Roald Dahl,1.13,13/10/2022
+2083, Literature,On the Road,Jack Kerouac,1.91,13/10/2022
+2084, Contemporary,The Curious Incident of the Dog in the Night-Time,Mark Haddon,2.94,13/10/2022
+2085, Classics,The Very Hungry Caterpillar,Eric Carle,2.42,13/10/2022
+2086, Inspirational,Tuesdays with Morrie,Mitch Albom,3.27,13/10/2022
+2087, Literature,The Unbearable Lightness of Being,Milan Kundera,11.62,13/10/2022
+2088, Classics,The Name of the Rose,Umberto Eco,4.07,13/10/2022
+2089, Childrens,Where the Red Fern Grows,Wilson Rawls,5.4,13/10/2022
+2090, Magic,Harry Potter and the Chamber of Secrets,J.K. Rowling,4.17,13/10/2022
+2091, School,The Scarlet Letter,Nathaniel Hawthorne,1.91,13/10/2022
+2092, Crime,In Cold Blood,Truman Capote,6.58,13/10/2022
+2093, Thriller,Fight Club,Chuck Palahniuk,10.16,13/10/2022
+2094, Fantasy,The Five People You Meet in Heaven,Mitch Albom,3.57,13/10/2022
+2095, Paranormal,Hush,Becca Fitzpatrick,2.55,13/10/2022
+2096, Fiction,The Cat in the Hat,Dr. Seuss,0.85,13/10/2022
+2097, Adventure,The Count of Monte Cristo,Alexandre Dumas,6.13,13/10/2022
+2098, Classics,Lonesome Dove,Larry McMurtry,4.55,13/10/2022
+2099, Horror,Perfume: The Story of a Murderer,Patrick Süskind,2.6,13/10/2022
+2100, Middle Grade,Holes,Louis Sachar,3.1,13/10/2022
+2101, Science Fiction,Watchmen,Alan Moore,4.85,13/10/2022
+2102, Fantasy,It,Stephen King,5.71,13/10/2022
+2103, Fiction,The Last Olympian,Rick Riordan,7.44,22/01/2023
+2104, Literature,The Divine Comedy,Dante Alighieri,13.66,22/01/2023
+2105, Childrens,Peter Pan,J.M. Barrie,5.26,22/01/2023
+2106, War,All Quiet on the Western Front,Erich Maria Remarque,2.32,22/01/2023
+2107, Adventure,The Hobbit,J.R.R. Tolkien,4.68,22/01/2023
+2108, Fiction,The Compleat Works of Wllm Shkspr (abridged),Reduced Shakespeare Company,3.17,22/01/2023
+2109, Romance,Love in the Time of Cholera,Gabriel García Márquez,3.36,22/01/2023
+2110, Paranormal,Shadow Kiss,Richelle Mead,2.76,22/01/2023
+2111, Fantasy,The Ultimate Hitchhikers Guide to the Galaxy,Douglas Adams,2.76,22/01/2023
+2112, Classics,Atonement,Ian McEwan,2.86,22/01/2023
+2113, Drama,The Importance of Being Earnest,Oscar Wilde,5.26,22/01/2023
+2114, Biography,Eat Pray Love,Elizabeth Gilbert,5.56,22/01/2023
+2115, School,Their Eyes Were Watching God,Zora Neale Hurston,14.2,22/01/2023
+2116, Childrens,The Wonderful Wizard of Oz,L. Frank Baum,1.45,22/01/2023
+2117, Fiction,Goodnight Moon,Margaret Wise Brown,5.69,22/01/2023
+2118, Classics,The Lorax,Dr. Seuss,41.26,22/01/2023
+2119, Paranormal,Blood Promise,Richelle Mead,3.73,22/01/2023
+2120, China,The Good Earth,Pearl S. Buck,5.27,22/01/2023
+2121, Africa,Heart of Darkness,Joseph Conrad,7.19,22/01/2023
+2122, Drama,A Midsummer Nights Dream,William Shakespeare,3,22/01/2023
+2123, Paranormal,Clockwork Princess,Cassandra Clare,4,22/01/2023
+2124, Fiction,The Prophet,Kahlil Gibran,5.8,22/01/2023
+2125, Fiction,The Titans Curse,Rick Riordan,3.43,22/01/2023
+2126, Fiction,The Sea of Monsters,Rick Riordan,1.91,22/01/2023
+2127, China,The Joy Luck Club,Amy Tan,4.74,22/01/2023
+2128, Childrens,Alice in Wonderland,Jane Carruth (Adapted By),5.26,22/01/2023
+2129, Young Adult,The Call of the Wild,Jack London,5.38,22/01/2023
+2130, Fantasy,Jonathan Livingston Seagull,Richard Bach,4.55,22/01/2023
+2131, Literature,Madame Bovary,Gustave Flaubert,1.45,22/01/2023
+2132, Classics,The Phantom Tollbooth,Norton Juster,5.79,22/01/2023
+2133, Dystopia,The Hunger Games Trilogy Boxset,Suzanne Collins,4.09,22/01/2023
+2134, Classics,Oh the Places Youll Go!,Dr. Seuss,5.01,22/01/2023
+2135, Crime,The Girl Who Played with Fire,Stieg Larsson,3.25,22/01/2023
+2136, Fiction,The Maze Runner,James Dashner,3.17,22/01/2023
+2137, Young Adult,The Neverending Story,Michael Ende,7.54,22/01/2023
+2138, Young Adult,Treasure Island,Robert Louis Stevenson,5.6,22/01/2023
+2139, Science Fiction Fantasy,A Storm of Swords,George R.R. Martin,3.57,22/01/2023
+2140, Literature,The Canterbury Tales,Geoffrey Chaucer,3.9,22/01/2023
+2141, War,A Farewell to Arms,Ernest Hemingway,0.91,22/01/2023
+2142, Realistic Fiction,Tote Mädchen lügen nicht,Jay Asher,3.86,22/01/2023
+2143, Science Fiction Fantasy,Wicked: The Life and Times of the Wicked Witch of the West,Gregory Maguire,2.76,22/01/2023
+2144, Historical,Shōgun,James Clavell,7.04,22/01/2023
+2145, Novels,Extremely Loud & Incredibly Close,Jonathan Safran Foer,2.41,22/01/2023
+2146, Crime,Murder on the Orient Express,Agatha Christie,2.56,22/01/2023
+2147, Childrens,His Dark Materials,Philip Pullman,3.57,22/01/2023
+2148, Young Adult,A Little Princess,Frances Hodgson Burnett,2.87,22/01/2023
+2149, Holocaust,Schindlers List,Thomas Keneally,0.85,22/01/2023
+2150, Paranormal,Last Sacrifice,Richelle Mead,3.8,22/01/2023
+2151, Historical Fiction,The Night Circus,Erin Morgenstern,7.02,22/01/2023
+2152, Paranormal,Fallen,Lauren Kate,4.64,22/01/2023
+2153, High Fantasy,The Silmarillion,J.R.R. Tolkien,17.07,22/01/2023
+2154, Historical,The Secret Magdalene,Ki Longfellow,5.6,22/01/2023
+2155, Magical Realism,Beloved,Toni Morrison,3.8,22/01/2023
+2156, Literature,A Confederacy of Dunces,John Kennedy Toole,5.91,22/01/2023
+2157, Fantasy,The Selection,Kiera Cass,5.01,22/01/2023
+2158, Picture Books,The Velveteen Rabbit,Margery Williams Bianco,5.9,22/01/2023
+2159, Fantasy,Catching Fire,Suzanne Collins,3.66,22/01/2023
+2160, Fiction,The Lost Hero,Rick Riordan,10.25,22/01/2023
+2161, Paranormal,Spirit Bound,Richelle Mead,4.59,22/01/2023
+2162, Paranormal,Clockwork Prince,Cassandra Clare,5.69,22/01/2023
+2163, Mythology,The Iliad/The Odyssey,Homer,6.15,22/01/2023
+2164, Historical Fiction,The Crucible,Arthur Miller,3.98,22/01/2023
+2165, Humor,Cats Cradle,Kurt Vonnegut Jr.,5.69,22/01/2023
+2166, Contemporary,The God of Small Things,Arundhati Roy,3.17,22/01/2023
+2167, Fantasy,The Wind in the Willows,Kenneth Grahame,4.18,22/01/2023
+2168, Classics,Girl with a Pearl Earring,Tracy Chevalier,2.86,22/01/2023
+2169, Christian,The Hiding Place: The Triumphant True Story of Corrie Ten Boom,Corrie ten Boom,4.17,22/01/2023
+2170, Fiction,A Light in the Attic,Shel Silverstein,12.08,22/01/2023
+2171, Mystery,The Silence of the Lambs,Thomas Harris,3.11,22/01/2023
+2172, Paranormal,Shiver,Maggie Stiefvater,7.05,22/01/2023
+2173, Fiction,Uglies,Scott Westerfeld,3.58,22/01/2023
+2174, Romance,City of Fallen Angels,Cassandra Clare,4.75,22/01/2023
+2175, History,Mans Search for Meaning,Viktor E. Frankl,7.37,22/01/2023
+2176, Adult Fiction,Shes Come Undone,Wally Lamb,1.91,22/01/2023
+2177, Romance,The Phantom of the Opera,Gaston Leroux,2.86,22/01/2023
+2178, Dogs,Marley and Me: Life and Love With the Worlds Worst Dog,John Grogan,5.29,22/01/2023
+2179, Romance,Ella Enchanted,Gail Carson Levine,1.91,22/01/2023
+2180, Japanese Literature,The Wind-Up Bird Chronicle,Haruki Murakami,22.25,22/01/2023
+2181, Thriller,The Green Mile,Stephen King,17.56,22/01/2023
+2182, Science Fiction Fantasy,A Clash of Kings,George R.R. Martin,1.91,22/01/2023
+2183, Paranormal,Marked,P.C. Cast,1.79,22/01/2023
+2184, Romance,The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer,3.65,22/01/2023
+2185, Journalism,Fear and Loathing in Las Vegas,Hunter S. Thompson,5.69,22/01/2023
+2186, Classics,The House of the Spirits,Isabel Allende,3.32,22/01/2023
+2187, Fiction,The Complete Calvin and Hobbes,Bill Watterson,110.67,22/01/2023
+2188, Historical,Roots: The Saga of an American Family,Alex Haley,3.1,22/01/2023
+2189, Suspense,Misery,Stephen King,1.12,22/01/2023
+2190, Romance,Howls Moving Castle,Diana Wynne Jones,5.95,22/01/2023
+2191, Science Fiction Fantasy,Stranger in a Strange Land,Robert A. Heinlein,6.4,22/01/2023
+2192, Crime,The Girl Who Kicked the Hornets Nest,Stieg Larsson,1.64,22/01/2023
+2193, Literary Fiction,The Secret History,Donna Tartt,9.11,22/01/2023
+2194, Adult Fiction,White Oleander,Janet Fitch,4.89,22/01/2023
+2195, Science Fiction,Delirium,Lauren Oliver,2.86,22/01/2023
+2196, Drama,Othello,William Shakespeare,6.76,22/01/2023
+2197, Historical,Flow Down Like Silver: Hypatia of Alexandria,Ki Longfellow,8.08,22/01/2023
+2198, Romance,Paper Towns,John Green,1.61,22/01/2023
+2199, Fiction,The Vampire Lestat,Anne Rice,5.68,22/01/2023
+2200, Realistic Fiction,Speak,Laurie Halse Anderson,5.07,22/01/2023
+2201, Russian Literature,The Idiot,Fyodor Dostoyevsky,5.46,22/01/2023
+2202, Fiction,King Lear,William Shakespeare,3.78,22/01/2023
+2203, Historical Fiction,The Once and Future King,T.H. White,2.66,22/01/2023
+2204, Literary Fiction,I Know This Much Is True,Wally Lamb,2.94,22/01/2023
+2205, Science Fiction Fantasy,Neverwhere,Neil Gaiman,4.66,22/01/2023
+2206, Adventure,Into the Wild,Jon Krakauer,3.75,22/01/2023
+2207, Childrens,Inkheart,Cornelia Funke,3.52,22/01/2023
+2208, Fantasy,Lamb: The Gospel According to Biff,Christopher Moore,3.56,22/01/2023
+2209, Crime,The Complete Sherlock Holmes,Arthur Conan Doyle,11.24,22/01/2023
+2210, France,Candide,Voltaire,1.45,22/01/2023
+2211, Classics,James and the Giant Peach,Roald Dahl,5.4,22/01/2023
+2212, History,Blood River: A Journey to Africas Broken Heart,Tim Butcher,2.76,22/01/2023
+2213, Literature,Paradise Lost,John Milton,1.91,22/01/2023
+2214, Classics,All Creatures Great and Small,James Herriot,2.63,22/01/2023
+2215, Plays,The Complete Works,William Shakespeare,4.44,22/01/2023
+2216, Gothic,The Thirteenth Tale,Diane Setterfield,1.76,22/01/2023
+2217, Science Fiction Fantasy,Foundation,Isaac Asimov,15.29,22/01/2023
+2218, Japanese Literature,Norwegian Wood,Haruki Murakami,13,22/01/2023
+2219, Classics,The Things They Carried,Tim OBrien,3.32,22/01/2023
+2220, Literature,The Cider House Rules,John Irving,5.14,22/01/2023
+2221, Thriller,Different Seasons,Stephen King,3.11,22/01/2023
+2222, Fantasy,Kafka on the Shore,Haruki Murakami,8.22,22/01/2023
+2223, Young Adult,Heidi,Johanna Spyri,2.49,22/01/2023
+2224, Classics,Are You There God? Its Me,Judy Blume,11.9,22/01/2023
+2225, Romance,City of Lost Souls,Cassandra Clare,5.26,22/01/2023
+2226, Young Adult,Sophies World,Jostein Gaarder,3.43,22/01/2023
+2227, High Fantasy,The Wise Mans Fear,Patrick Rothfuss,16.37,22/01/2023
+2228, School,The Awakening,Kate Chopin,10.36,22/01/2023
+2229, Holocaust,Sophies Choice,William Styron,4.08,22/01/2023
+2230, Romance,The Prince of Tides,Pat Conroy,7.15,22/01/2023
+2231, Contemporary,Never Let Me Go,Kazuo Ishiguro,6.46,22/01/2023
+2232, Fiction,The Son of Neptune,Rick Riordan,6.42,22/01/2023
+2233, Urban Fantasy,Dead Until Dark,Charlaine Harris,3.16,22/01/2023
+2234, Classics,Fried Green Tomatoes at the Whistle Stop Cafe,Fannie Flagg,16.54,22/01/2023
+2235, BDSM,Fifty Shades Darker,E.L. James,6.33,22/01/2023
+2236, Fantasy,Ready Player One,Ernest Cline,16.53,22/01/2023
+2237, Literature,Middlemarch,George Eliot,5.49,22/01/2023
+2238, Humor,The Monster at the End of this Book,Jon Stone,5.46,22/01/2023
+2239, Humor,Bridget Joness Diary,Helen Fielding,4.48,22/01/2023
+2240, Novels,Mrs. Dalloway,Virginia Woolf,1.33,22/01/2023
+2241, Fantasy,Mockingjay,Suzanne Collins,3.43,22/01/2023
+2242, Literature,Franny and Zooey,J.D. Salinger,4.19,22/01/2023
+2243, Classics,The Power of One,Bryce Courtenay,4,22/01/2023
+2244, Young Adult,The Magicians Nephew,C.S. Lewis,2.86,22/01/2023
+2245, Young Adult,Stardust,Neil Gaiman,6.7,22/01/2023
+2246, Classics,Number the Stars,Lois Lowry,8.29,22/01/2023
+2247, Science Fiction,Allegiant,Veronica Roth,2.76,22/01/2023
+2248, Fiction,Eleanor & Park,Rainbow Rowell,1.06,22/01/2023
+2249, Audiobook,A Short History of Nearly Everything,Bill Bryson,2.17,22/01/2023
+2250, Chick Lit,Me Before You,Jojo Moyes,3.14,22/01/2023
+2251, Fiction,The Mark of Athena,Rick Riordan,5.11,22/01/2023
+2252, Dogs,The Art of Racing in the Rain,Garth Stein,5.27,22/01/2023
+2253, High Fantasy,The Way of Kings,Brandon Sanderson,22.74,22/01/2023
+2254, Fiction,If I Stay,Gayle Forman,3.82,22/01/2023
+2255, Animals,Black Beauty,Anna Sewell,3.16,22/01/2023
+2256, Irish Literature,A Portrait of the Artist as a Young Man,James Joyce,5.87,22/01/2023
+2257, Adventure,Gullivers Travels,Jonathan Swift,3.27,22/01/2023
+2258, Book Club,Bel Canto,Ann Patchett,2.86,22/01/2023
+2259, Classics,American Psycho,Bret Easton Ellis,3.34,22/01/2023
+2260, Dystopia,V for Vendetta,Alan Moore,14.65,22/01/2023
+2261, Classics,Love You Forever,Robert Munsch,3.46,22/01/2023
+2262, Classics,The Witches,Roald Dahl,3.84,22/01/2023
+2263, Horror,The Graveyard Book,Neil Gaiman,3.87,22/01/2023
+2264, Historical Fiction,The Complete Novels,Jane Austen,2.76,22/01/2023
+2265, BDSM,Fifty Shades Freed,E.L. James,4,22/01/2023
+2266, Romance,Cold Mountain,Charles Frazier,4.21,22/01/2023
+2267, Animals,White Fang,Jack London,3.16,22/01/2023
+2268, Fantasy,Beowulf,Unknown,4.55,22/01/2023
+2269, Fiction,Tuck Everlasting,Natalie Babbitt,3.1,22/01/2023
+2270, High Fantasy,The Final Empire,Brandon Sanderson,20.93,22/01/2023
+2271, Romance,Beautiful Creatures,Kami Garcia,6.29,22/01/2023
+2272, German Literature,Steppenwolf,Hermann Hesse,2.71,22/01/2023
+2273, Dragons,Eldest,Christopher Paolini,3.11,22/01/2023
+2274, Paranormal Romance,Dark Lover,J.R. Ward,3.89,22/01/2023
+2275, Contemporary,Go Ask Alice,Beatrice Sparks (as Anonymous),2.98,22/01/2023
+2276, High Fantasy,The Eye of the World,Robert Jordan,5.13,22/01/2023
+2277, Short Stories,The Tell-Tale Heart and Other Writings,Edgar Allan Poe,5.58,22/01/2023
+2278, Novels,As I Lay Dying,William Faulkner,3.81,22/01/2023
+2279, Historical Fiction,A Separate Peace,John Knowles,2.82,22/01/2023
+2280, History,The Complete Maus,Art Spiegelman,13.84,22/01/2023
+2281, Historical Fiction,Mansfield Park,Jane Austen,3.11,22/01/2023
+2282, Literature,The Amazing Adventures of Kavalier & Clay,Michael Chabon,3.76,22/01/2023
+2283, Dragons,Brisingr,Christopher Paolini,3.92,22/01/2023
+2284, Psychology,A Child Called It,Dave Pelzer,2.93,22/01/2023
+2285, Realistic Fiction,Stargirl,Jerry Spinelli,2.25,22/01/2023
+2286, Classics,Tao Te Ching,Lao Tzu,8,22/01/2023
+2287, Contemporary,Dear John,Nicholas Sparks,1.64,22/01/2023
+2288, Classics,Midnights Children,Salman Rushdie,0.85,22/01/2023
+2289, Fantasy,Salems Lot,Stephen King,1.12,22/01/2023
+2290, Short Stories,The Martian Chronicles,Ray Bradbury,3.63,22/01/2023
+2291, Paranormal,Crescendo,Becca Fitzpatrick,5.8,22/01/2023
+2292, Romance,The English Patient,Michael Ondaatje,16.05,22/01/2023
+2293, Literature,East of Eden,John Steinbeck,5.26,22/01/2023
+2294, Historical Fiction,Cloud Atlas,David Mitchell,1.15,22/01/2023
+2295, Spirituality,Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values,Robert M. Pirsig,4.41,22/01/2023
+2296, Adventure,The Martian,Andy Weir,2.63,22/01/2023
+2297, Suspense,The Firm,John Grisham,3.09,22/01/2023
+2298, Contemporary,The Last Song,Nicholas Sparks,3.28,22/01/2023
+2299, Literature,My Ántonia,Willa Cather,2.86,22/01/2023
+2300, Romance,Shatter Me,Tahereh Mafi,4.81,22/01/2023
+2301, Science Fiction,The Amber Spyglass,Philip Pullman,1.64,22/01/2023
+2302, Russia,Doctor Zhivago,Boris Pasternak,6.56,22/01/2023
+2303, France,The Hunchback of Notre-Dame,Victor Hugo,3.32,10/08/2023
+2304, Literature,Inferno,Dante Alighieri,5.34,10/08/2023
+2305, Historical Fiction,Like Water for Chocolate,Laura Esquivel,2.6,10/08/2023
+2306, Fiction,Dragonfly in Amber,Diana Gabaldon,4.8,10/08/2023
+2307, Humor,Breakfast of Champions,Kurt Vonnegut Jr.,2.82,10/08/2023
+2308, Classics,The BFG,Roald Dahl,2.75,10/08/2023
+2309, Young Adult Fantasy,Six of Crows,Leigh Bardugo,5.78,10/08/2023
+2310, Magic,Harry Potter Series Box Set,J.K. Rowling,77.25,10/08/2023
+2311, Biology,The Origin of Species,Charles Darwin,5.58,10/08/2023
+2312, Canada,A Fine Balance,Rohinton Mistry,7.31,10/08/2023
+2313, Paranormal,Daughter of Smoke & Bone,Laini Taylor,4.99,10/08/2023
+2314, Science Fiction,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,3.35,10/08/2023
+2315, Paranormal,City of Heavenly Fire,Cassandra Clare,8.37,10/08/2023
+2316, Romance,Evermore,Alyson Noel,1.45,10/08/2023
+2317, Drama,Death of a Salesman,Arthur Miller,3.92,10/08/2023
+2318, Time Travel,11/22/63,Stephen King,6.21,10/08/2023
+2319, Crime,Midnight in the Garden of Good and Evil,John Berendt,4.43,10/08/2023
+2320, Fiction,A Streetcar Named Desire,Tennessee Williams,5.26,10/08/2023
+2321, Novels,Infinite Jest,David Foster Wallace,10.18,10/08/2023
+2322, Politics,The Prince,Niccolò Machiavelli,5.68,10/08/2023
+2323, Drama,Hamlet,William Shakespeare,2.2,10/08/2023
+2324, Poetry,Faust,Johann Wolfgang von Goethe,6.32,10/08/2023
+2325, Chick Lit,Anna and the French Kiss,Stephanie Perkins,3.11,10/08/2023
+2326, Science Fiction Fantasy,A Feast for Crows,George R.R. Martin,5,10/08/2023
+2327, Fiction,The Angel Experiment,James Patterson,3.43,10/08/2023
+2328, Science Fiction,Matched,Ally Condie,1.64,10/08/2023
+2329, Mystery,Flowers in the Attic,V.C. Andrews,8.77,10/08/2023
+2330, Canada,The Shipping News,Annie Proulx,1.29,10/08/2023
+2331, World War II,Unbroken: A World War II Story of Survival,Laura Hillenbrand,1.15,10/08/2023
+2332, Young Adult,The Chosen,Chaim Potok,2,10/08/2023
+2333, Humor,High Fidelity,Nick Hornby,2.58,10/08/2023
+2334, War,All the Light We Cannot See,Anthony Doerr,4.45,10/08/2023
+2335, Mystery,Houdini Heart,Ki Longfellow,4.58,10/08/2023
+2336, Middle Grade,Artemis Fowl,Eoin Colfer,4.97,10/08/2023
+2337, Young Adult,Pippi Longstocking,Astrid Lindgren,6.7,10/08/2023
+2338, Short Stories,The Tales of Beedle the Bard,J.K. Rowling,1.79,10/08/2023
+2339, Young Adult,The Virgin Suicides,Jeffrey Eugenides,2.67,10/08/2023
+2340, Classics,The Reader,Bernhard Schlink,3.16,10/08/2023
+2341, Adult,Nineteen Minutes,Jodi Picoult,2.66,10/08/2023
+2342, Fiction,The House of Hades,Rick Riordan,8,10/08/2023
+2343, Adventure,Shantaram,Gregory David Roberts,5.97,10/08/2023
+2344, Crime,The Devil in the White City: Murder,Erik Larson,6.78,10/08/2023
+2345, Romance,Redeeming Love,Francine Rivers,3.81,10/08/2023
+2346, Romance,The Age of Innocence,Edith Wharton,3.77,10/08/2023
+2347, Romance,The Host,Stephenie Meyer,3.89,10/08/2023
+2348, Mystery Thriller,The Lost Symbol,Dan Brown,0.85,10/08/2023
+2349, Paranormal,Betrayed,P.C. Cast,3.38,10/08/2023
+2350, Literature,The Grapes of Wrath,John Steinbeck,27.35,10/08/2023
+2351, Historical Fiction,Northanger Abbey,Jane Austen,0.85,10/08/2023
+2352, Young Adult,The Voyage of the Dawn Treader,C.S. Lewis,7.83,10/08/2023
+2353, Ireland,Dubliners,James Joyce,2.74,10/08/2023
+2354, Paranormal Romance,Lover Awakened,J.R. Ward,2.5,10/08/2023
+2355, New Adult,A Court of Thorns and Roses,Sarah J. Maas,18.9,10/08/2023
+2356, Adult Fiction,Divine Secrets of the Ya-Ya Sisterhood,Rebecca Wells,1.71,10/08/2023
+2357, Literature,The Waste Land,T.S. Eliot,5.26,10/08/2023
+2358, Paranormal,Untamed,P.C. Cast,2.87,10/08/2023
+2359, Novels,Everything Is Illuminated,Jonathan Safran Foer,1.45,10/08/2023
+2360, Magic,Crown of Midnight,Sarah J. Maas,18.19,10/08/2023
+2361, Biography,I Know Why the Caged Bird Sings,Maya Angelou,4.64,10/08/2023
+2362, Short Stories,I Robot,Isaac Asimov,8.99,10/08/2023
+2363, Romance,The Twilight Collection,Stephenie Meyer,28.05,10/08/2023
+2364, School,The Pearl,John Steinbeck,12.38,10/08/2023
+2365, Fantasy,The One,Kiera Cass,3.39,10/08/2023
+2366, Literature,The Jungle,Upton Sinclair,2.94,10/08/2023
+2367, Paranormal,Carrie,Stephen King,7.01,10/08/2023
+2368, Historical,Snow Falling on Cedars,David Guterson,1.79,10/08/2023
+2369, Fiction,Voyager,Diana Gabaldon,5.97,10/08/2023
+2370, Historical,I Claudius,Robert Graves,3.38,10/08/2023
+2371, Magic,Heir of Fire,Sarah J. Maas,8.99,10/08/2023
+2372, Essays,Me Talk Pretty One Day,David Sedaris,1.44,10/08/2023
+2373, Paranormal,Chosen,P.C. Cast,1.79,10/08/2023
+2374, Historical Fiction,A Room with a View,E.M. Forster,9.24,10/08/2023
+2375, 19th Century,Bleak House,Charles Dickens,5.51,10/08/2023
+2376, Politics,The Republic,Plato,2.85,10/08/2023
+2377, Young Adult,The Last Battle,C.S. Lewis,1.79,10/08/2023
+2378, Paranormal,The Exorcist,William Peter Blatty,6.49,10/08/2023
+2379, Drama,The Elephant Tree,R.D. Ronald,5.42,10/08/2023
+2380, Young Adult,Coraline,Neil Gaiman,11.55,10/08/2023
+2381, Literature,Demian: Die Geschichte von Emil Sinclairs Jugend,Hermann Hesse,3.56,10/08/2023
+2382, Fiction,The 5th Wave,Rick Yancey,1.64,10/08/2023
+2383, Paranormal,The Iron King,Julie Kagawa,3.81,10/08/2023
+2384, Novels,Quantum Roots II: Worm Holes,Kyle Keyes,14.36,10/08/2023
+2385, Romance,Aristotle and Dante Discover the Secrets of the Universe,Benjamin Alire Sáenz,19.17,10/08/2023
+2386, Fantasy,The Hunger Games,Suzanne Collins,5.09,13/10/2022
+2387, Magic,Harry Potter and the Order of the Phoenix,J.K. Rowling,7.38,13/10/2022
+2388, Vampires,Twilight,Stephenie Meyer,2.1,13/10/2022
+2389, Historical,The Book Thief,Markus Zusak,3.8,13/10/2022
+2390, Fantasy,Animal Farm,George Orwell,4.42,13/10/2022
+2391, Adventure,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,21.15,13/10/2022
+2392, Romance,Gone with the Wind,Margaret Mitchell,5.58,13/10/2022
+2393, Fiction,The Giving Tree,Shel Silverstein,4.87,13/10/2022
+2394, Gothic,Wuthering Heights,Emily Brontë,2.73,13/10/2022
+2395, Historical,Memoirs of a Geisha,Arthur Golden,2.76,13/10/2022
+2396, Childrens,Alices Adventures in Wonderland & Through the Looking-Glass,Lewis Carroll,3.07,13/10/2022
+2397, Historical Fiction,Jane Eyre,Charlotte Brontë,5.46,13/10/2022
+2398, Fantasy,Divergent,Veronica Roth,0.88,13/10/2022
+2399, School,Lord of the Flies,William Golding,1.89,13/10/2022
+2400, Romance,Romeo and Juliet,William Shakespeare,6.79,13/10/2022
+2401, Philosophy,The Alchemist,Paulo Coelho,13.22,13/10/2022
+2402, Literature,Crime and Punishment,Fyodor Dostoyevsky,18.85,13/10/2022
+2403, Romance,City of Bones,Cassandra Clare,6.29,13/10/2022
+2404, Fantasy,Enders Game,Orson Scott Card,4.6,13/10/2022
+2405, Childrens,Anne of Green Gables,L.M. Montgomery,6.07,13/10/2022
+2406, Young Adult,Charlottes Web,E.B. White,6.15,13/10/2022
+2407, Historical Fiction,Of Mice and Men,John Steinbeck,5.75,13/10/2022
+2408, Fantasy,Dracula,Bram Stoker,4.55,13/10/2022
+2409, Dystopia,Brave New World,Aldous Huxley,3.78,13/10/2022
+2410, Literature,The Catcher in the Rye,J.D. Salinger,2.6,13/10/2022
+2411, Romance,The Princess Bride,William Goldman,6.23,13/10/2022
+2412, Fiction,The Lightning Thief,Rick Riordan,1.79,13/10/2022
+2413, Young Adult,The Secret Garden,Frances Hodgson Burnett,3.33,13/10/2022
+2414, Novels,A Thousand Splendid Suns,Khaled Hosseini,1.16,13/10/2022
+2415, Young Adult,A Wrinkle in Time,Madeleine LEngle,4.8,13/10/2022
+2416, Adult,A Game of Thrones,George R.R. Martin,4.01,13/10/2022
+2417, Literature,The Adventures of Huckleberry Finn,Mark Twain,6.99,13/10/2022
+2418, Contemporary,The Lovely Bones,Alice Sebold,1.91,13/10/2022
+2419, Classics,Where the Wild Things Are,Maurice Sendak,3.67,13/10/2022
+2420, Fiction,Green Eggs and Ham,Dr. Seuss,2.98,13/10/2022
+2421, Mythology,The Odyssey,Homer,3.65,13/10/2022
+2422, Adventure,Life of Pi,Yann Martel,2.86,13/10/2022
+2423, Literature,A Tale of Two Cities,Charles Dickens,1.12,13/10/2022
+2424, Historical,Water for Elephants,Sara Gruen,3.46,13/10/2022
+2425, War,Slaughterhouse-Five,Kurt Vonnegut Jr.,8.5,13/10/2022
+2426, Science Fiction,Frankenstein: The 1818 Text,Mary Wollstonecraft Shelley,8.75,13/10/2022
+2427, Dystopia,The Giver,Lois Lowry,7.15,13/10/2022
+2428, Historical Fiction,Catch-22,Joseph Heller,3.32,13/10/2022
+2429, Classics,Dune,Frank Herbert,29.34,13/10/2022
+2430, Science Fiction,The Stand,Stephen King,8.38,13/10/2022
+2431, Young Adult,Watership Down,Richard Adams,5.25,13/10/2022
+2432, Historical Fiction,Great Expectations,Charles Dickens,0.85,13/10/2022
+2433, Young Adult,Little Women,Louisa May Alcott,5.51,13/10/2022
+2434, Magic,Harry Potter and the Deathly Hallows,J.K. Rowling,2.85,13/10/2022
+2435, Fiction,Outlander,Diana Gabaldon,5.98,13/10/2022
+2436, Young Adult,My Sisters Keeper,Jodi Picoult,2.76,13/10/2022
+2437, Fantasy,Matilda,Roald Dahl,6.01,13/10/2022
+2438, Feminism,The Color Purple,Alice Walker,13.75,13/10/2022
+2439, Young Adult,A Tree Grows in Brooklyn,Betty Smith,5.01,13/10/2022
+2440, Dystopia,A Clockwork Orange,Anthony Burgess,13.05,13/10/2022
+2441, Post Apocalyptic,The Road,Cormac McCarthy,6.83,13/10/2022
+2442, Literature,The Brothers Karamazov,Fyodor Dostoyevsky,5.51,13/10/2022
+2443, Classics,Angelas Ashes,Frank McCourt,2.76,13/10/2022
+2444, Paranormal,Vampire Academy,Richelle Mead,3.33,13/10/2022
+2445, Classics,The Poisonwood Bible,Barbara Kingsolver,4.12,13/10/2022
+2446, Childrens,The Golden Compass,Philip Pullman,1.61,13/10/2022
+2447, Spanish Literature,Don Quixote,Miguel de Cervantes Saavedra,9.04,13/10/2022
+2448, Politics,Atlas Shrugged,Ayn Rand,4.41,13/10/2022
+2449, Magic,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,5.94,13/10/2022
+2450, Novels,The Old Man and the Sea,Ernest Hemingway,15.63,13/10/2022
+2451, Fantasy,Winnie-the-Pooh,A.A. Milne,5.3,13/10/2022
+2452, Fiction,The Complete Stories and Poems,Edgar Allan Poe,5.27,13/10/2022
+2453, Vampires,Interview with the Vampire,Anne Rice,2.66,13/10/2022
+2454, Literature,A Prayer for Owen Meany,John Irving,2.86,13/10/2022
+2455, Adventure,Moby-Dick or,Herman Melville,1.87,13/10/2022
+2456, Religion,The Red Tent,Anita Diamant,5.26,13/10/2022
+2457, Classics,The Secret Life of Bees,Sue Monk Kidd,3.5,13/10/2022
+2458, Romance,Clockwork Angel,Cassandra Clare,4.62,13/10/2022
+2459, Crime,And Then There Were None,Agatha Christie,4.82,13/10/2022
+2460, LGBT,Middlesex,Jeffrey Eugenides,3.11,13/10/2022
+2461, Fantasy,The Master and Margarita,Mikhail Bulgakov,13.56,13/10/2022
+2462, High Fantasy,The Name of the Wind,Patrick Rothfuss,9.36,13/10/2022
+2463, Classics,The Shining,Stephen King,7.59,13/10/2022
+2464, Young Adult,The Adventures of Tom Sawyer,Mark Twain,3.36,13/10/2022
+2465, Dragons,Eragon,Christopher Paolini,2.86,13/10/2022
+2466, Classics,Charlie and the Chocolate Factory,Roald Dahl,1.13,13/10/2022
+2467, Literature,On the Road,Jack Kerouac,1.91,13/10/2022
+2468, Contemporary,The Curious Incident of the Dog in the Night-Time,Mark Haddon,2.94,13/10/2022
+2469, Classics,The Very Hungry Caterpillar,Eric Carle,2.42,13/10/2022
+2470, Inspirational,Tuesdays with Morrie,Mitch Albom,3.27,13/10/2022
+2471, Literature,The Unbearable Lightness of Being,Milan Kundera,11.62,13/10/2022
+2472, Classics,The Name of the Rose,Umberto Eco,4.07,13/10/2022
+2473, Childrens,Where the Red Fern Grows,Wilson Rawls,5.4,13/10/2022
+2474, Magic,Harry Potter and the Chamber of Secrets,J.K. Rowling,4.17,13/10/2022
+2475, School,The Scarlet Letter,Nathaniel Hawthorne,1.91,13/10/2022
+2476, Crime,In Cold Blood,Truman Capote,6.58,13/10/2022
+2477, Thriller,Fight Club,Chuck Palahniuk,10.16,13/10/2022
+2478, Fantasy,The Five People You Meet in Heaven,Mitch Albom,3.57,13/10/2022
+2479, Paranormal,Hush,Becca Fitzpatrick,2.55,13/10/2022
+2480, Fiction,The Cat in the Hat,Dr. Seuss,0.85,13/10/2022
+2481, Adventure,The Count of Monte Cristo,Alexandre Dumas,6.13,13/10/2022
+2482, Classics,Lonesome Dove,Larry McMurtry,4.55,13/10/2022
+2483, Horror,Perfume: The Story of a Murderer,Patrick Süskind,2.6,13/10/2022
+2484, Middle Grade,Holes,Louis Sachar,3.1,13/10/2022
+2485, Science Fiction,Watchmen,Alan Moore,4.85,13/10/2022
+2486, Fantasy,It,Stephen King,5.71,13/10/2022
+2487, Fiction,The Last Olympian,Rick Riordan,7.44,22/01/2023
+2488, Literature,The Divine Comedy,Dante Alighieri,13.66,22/01/2023
+2489, Childrens,Peter Pan,J.M. Barrie,5.26,22/01/2023
+2490, War,All Quiet on the Western Front,Erich Maria Remarque,2.32,22/01/2023
+2491, Adventure,The Hobbit,J.R.R. Tolkien,4.68,22/01/2023
+2492, Fiction,The Compleat Works of Wllm Shkspr (abridged),Reduced Shakespeare Company,3.17,22/01/2023
+2493, Romance,Love in the Time of Cholera,Gabriel García Márquez,3.36,22/01/2023
+2494, Paranormal,Shadow Kiss,Richelle Mead,2.76,22/01/2023
+2495, Fantasy,The Ultimate Hitchhikers Guide to the Galaxy,Douglas Adams,2.76,22/01/2023
+2496, Classics,Atonement,Ian McEwan,2.86,22/01/2023
+2497, Drama,The Importance of Being Earnest,Oscar Wilde,5.26,22/01/2023
+2498, Biography,Eat Pray Love,Elizabeth Gilbert,5.56,22/01/2023
+2499, School,Their Eyes Were Watching God,Zora Neale Hurston,14.2,22/01/2023
+2500, Childrens,The Wonderful Wizard of Oz,L. Frank Baum,1.45,22/01/2023
+2501, Fiction,Goodnight Moon,Margaret Wise Brown,5.69,22/01/2023
+2502, Classics,The Lorax,Dr. Seuss,41.26,22/01/2023
+2503, Paranormal,Blood Promise,Richelle Mead,3.73,22/01/2023
+2504, China,The Good Earth,Pearl S. Buck,5.27,22/01/2023
+2505, Africa,Heart of Darkness,Joseph Conrad,7.19,22/01/2023
+2506, Drama,A Midsummer Nights Dream,William Shakespeare,3,22/01/2023
+2507, Paranormal,Clockwork Princess,Cassandra Clare,4,22/01/2023
+2508, Fiction,The Prophet,Kahlil Gibran,5.8,22/01/2023
+2509, Fiction,The Titans Curse,Rick Riordan,3.43,22/01/2023
+2510, Fiction,The Sea of Monsters,Rick Riordan,1.91,22/01/2023
+2511, China,The Joy Luck Club,Amy Tan,4.74,22/01/2023
+2512, Childrens,Alice in Wonderland,Jane Carruth (Adapted By),5.26,22/01/2023
+2513, Young Adult,The Call of the Wild,Jack London,5.38,22/01/2023
+2514, Fantasy,Jonathan Livingston Seagull,Richard Bach,4.55,22/01/2023
+2515, Literature,Madame Bovary,Gustave Flaubert,1.45,22/01/2023
+2516, Classics,The Phantom Tollbooth,Norton Juster,5.79,22/01/2023
+2517, Dystopia,The Hunger Games Trilogy Boxset,Suzanne Collins,4.09,22/01/2023
+2518, Classics,Oh the Places Youll Go!,Dr. Seuss,5.01,22/01/2023
+2519, Crime,The Girl Who Played with Fire,Stieg Larsson,3.25,22/01/2023
+2520, Fiction,The Maze Runner,James Dashner,3.17,22/01/2023
+2521, Young Adult,The Neverending Story,Michael Ende,7.54,22/01/2023
+2522, Young Adult,Treasure Island,Robert Louis Stevenson,5.6,22/01/2023
+2523, Science Fiction Fantasy,A Storm of Swords,George R.R. Martin,3.57,22/01/2023
+2524, Literature,The Canterbury Tales,Geoffrey Chaucer,3.9,22/01/2023
+2525, War,A Farewell to Arms,Ernest Hemingway,0.91,22/01/2023
+2526, Realistic Fiction,Tote Mädchen lügen nicht,Jay Asher,3.86,22/01/2023
+2527, Science Fiction Fantasy,Wicked: The Life and Times of the Wicked Witch of the West,Gregory Maguire,2.76,22/01/2023
+2528, Historical,Shōgun,James Clavell,7.04,22/01/2023
+2529, Novels,Extremely Loud & Incredibly Close,Jonathan Safran Foer,2.41,22/01/2023
+2530, Crime,Murder on the Orient Express,Agatha Christie,2.56,22/01/2023
+2531, Childrens,His Dark Materials,Philip Pullman,3.57,22/01/2023
+2532, Young Adult,A Little Princess,Frances Hodgson Burnett,2.87,22/01/2023
+2533, Holocaust,Schindlers List,Thomas Keneally,0.85,22/01/2023
+2534, Paranormal,Last Sacrifice,Richelle Mead,3.8,22/01/2023
+2535, Historical Fiction,The Night Circus,Erin Morgenstern,7.02,22/01/2023
+2536, Paranormal,Fallen,Lauren Kate,4.64,22/01/2023
+2537, High Fantasy,The Silmarillion,J.R.R. Tolkien,17.07,22/01/2023
+2538, Historical,The Secret Magdalene,Ki Longfellow,5.6,22/01/2023
+2539, Magical Realism,Beloved,Toni Morrison,3.8,22/01/2023
+2540, Literature,A Confederacy of Dunces,John Kennedy Toole,5.91,22/01/2023
+2541, Fantasy,The Selection,Kiera Cass,5.01,22/01/2023
+2542, Picture Books,The Velveteen Rabbit,Margery Williams Bianco,5.9,22/01/2023
+2543, Fantasy,Catching Fire,Suzanne Collins,3.66,22/01/2023
+2544, Fiction,The Lost Hero,Rick Riordan,10.25,22/01/2023
+2545, Paranormal,Spirit Bound,Richelle Mead,4.59,22/01/2023
+2546, Paranormal,Clockwork Prince,Cassandra Clare,5.69,22/01/2023
+2547, Mythology,The Iliad/The Odyssey,Homer,6.15,22/01/2023
+2548, Historical Fiction,The Crucible,Arthur Miller,3.98,22/01/2023
+2549, Humor,Cats Cradle,Kurt Vonnegut Jr.,5.69,22/01/2023
+2550, Contemporary,The God of Small Things,Arundhati Roy,3.17,22/01/2023
+2551, Fantasy,The Wind in the Willows,Kenneth Grahame,4.18,22/01/2023
+2552, Classics,Girl with a Pearl Earring,Tracy Chevalier,2.86,22/01/2023
+2553, Christian,The Hiding Place: The Triumphant True Story of Corrie Ten Boom,Corrie ten Boom,4.17,22/01/2023
+2554, Fiction,A Light in the Attic,Shel Silverstein,12.08,22/01/2023
+2555, Mystery,The Silence of the Lambs,Thomas Harris,3.11,22/01/2023
+2556, Paranormal,Shiver,Maggie Stiefvater,7.05,22/01/2023
+2557, Fiction,Uglies,Scott Westerfeld,3.58,22/01/2023
+2558, Romance,City of Fallen Angels,Cassandra Clare,4.75,22/01/2023
+2559, History,Mans Search for Meaning,Viktor E. Frankl,7.37,22/01/2023
+2560, Adult Fiction,Shes Come Undone,Wally Lamb,1.91,22/01/2023
+2561, Romance,The Phantom of the Opera,Gaston Leroux,2.86,22/01/2023
+2562, Dogs,Marley and Me: Life and Love With the Worlds Worst Dog,John Grogan,5.29,22/01/2023
+2563, Romance,Ella Enchanted,Gail Carson Levine,1.91,22/01/2023
+2564, Japanese Literature,The Wind-Up Bird Chronicle,Haruki Murakami,22.25,22/01/2023
+2565, Thriller,The Green Mile,Stephen King,17.56,22/01/2023
+2566, Science Fiction Fantasy,A Clash of Kings,George R.R. Martin,1.91,22/01/2023
+2567, Paranormal,Marked,P.C. Cast,1.79,22/01/2023
+2568, Romance,The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer,3.65,22/01/2023
+2569, Journalism,Fear and Loathing in Las Vegas,Hunter S. Thompson,5.69,22/01/2023
+2570, Classics,The House of the Spirits,Isabel Allende,3.32,22/01/2023
+2571, Fiction,The Complete Calvin and Hobbes,Bill Watterson,110.67,22/01/2023
+2572, Historical,Roots: The Saga of an American Family,Alex Haley,3.1,22/01/2023
+2573, Suspense,Misery,Stephen King,1.12,22/01/2023
+2574, Romance,Howls Moving Castle,Diana Wynne Jones,5.95,22/01/2023
+2575, Science Fiction Fantasy,Stranger in a Strange Land,Robert A. Heinlein,6.4,22/01/2023
+2576, Crime,The Girl Who Kicked the Hornets Nest,Stieg Larsson,1.64,22/01/2023
+2577, Literary Fiction,The Secret History,Donna Tartt,9.11,22/01/2023
+2578, Adult Fiction,White Oleander,Janet Fitch,4.89,22/01/2023
+2579, Science Fiction,Delirium,Lauren Oliver,2.86,22/01/2023
+2580, Drama,Othello,William Shakespeare,6.76,22/01/2023
+2581, Historical,Flow Down Like Silver: Hypatia of Alexandria,Ki Longfellow,8.08,22/01/2023
+2582, Romance,Paper Towns,John Green,1.61,22/01/2023
+2583, Fiction,The Vampire Lestat,Anne Rice,5.68,22/01/2023
+2584, Realistic Fiction,Speak,Laurie Halse Anderson,5.07,22/01/2023
+2585, Russian Literature,The Idiot,Fyodor Dostoyevsky,5.46,22/01/2023
+2586, Fiction,King Lear,William Shakespeare,3.78,22/01/2023
+2587, Historical Fiction,The Once and Future King,T.H. White,2.66,22/01/2023
+2588, Literary Fiction,I Know This Much Is True,Wally Lamb,2.94,22/01/2023
+2589, Science Fiction Fantasy,Neverwhere,Neil Gaiman,4.66,22/01/2023
+2590, Adventure,Into the Wild,Jon Krakauer,3.75,22/01/2023
+2591, Childrens,Inkheart,Cornelia Funke,3.52,22/01/2023
+2592, Fantasy,Lamb: The Gospel According to Biff,Christopher Moore,3.56,22/01/2023
+2593, Crime,The Complete Sherlock Holmes,Arthur Conan Doyle,11.24,22/01/2023
+2594, France,Candide,Voltaire,1.45,22/01/2023
+2595, Classics,James and the Giant Peach,Roald Dahl,5.4,22/01/2023
+2596, History,Blood River: A Journey to Africas Broken Heart,Tim Butcher,2.76,22/01/2023
+2597, Literature,Paradise Lost,John Milton,1.91,22/01/2023
+2598, Classics,All Creatures Great and Small,James Herriot,2.63,22/01/2023
+2599, Plays,The Complete Works,William Shakespeare,4.44,22/01/2023
+2600, Gothic,The Thirteenth Tale,Diane Setterfield,1.76,22/01/2023
+2601, Science Fiction Fantasy,Foundation,Isaac Asimov,15.29,22/01/2023
+2602, Japanese Literature,Norwegian Wood,Haruki Murakami,13,22/01/2023
+2603, Classics,The Things They Carried,Tim OBrien,3.32,22/01/2023
+2604, Literature,The Cider House Rules,John Irving,5.14,22/01/2023
+2605, Thriller,Different Seasons,Stephen King,3.11,22/01/2023
+2606, Fantasy,Kafka on the Shore,Haruki Murakami,8.22,22/01/2023
+2607, Young Adult,Heidi,Johanna Spyri,2.49,22/01/2023
+2608, Classics,Are You There God? Its Me,Judy Blume,11.9,22/01/2023
+2609, Romance,City of Lost Souls,Cassandra Clare,5.26,22/01/2023
+2610, Young Adult,Sophies World,Jostein Gaarder,3.43,22/01/2023
+2611, High Fantasy,The Wise Mans Fear,Patrick Rothfuss,16.37,22/01/2023
+2612, School,The Awakening,Kate Chopin,10.36,22/01/2023
+2613, Holocaust,Sophies Choice,William Styron,4.08,22/01/2023
+2614, Romance,The Prince of Tides,Pat Conroy,7.15,22/01/2023
+2615, Contemporary,Never Let Me Go,Kazuo Ishiguro,6.46,22/01/2023
+2616, Fiction,The Son of Neptune,Rick Riordan,6.42,22/01/2023
+2617, Urban Fantasy,Dead Until Dark,Charlaine Harris,3.16,22/01/2023
+2618, Classics,Fried Green Tomatoes at the Whistle Stop Cafe,Fannie Flagg,16.54,22/01/2023
+2619, BDSM,Fifty Shades Darker,E.L. James,6.33,22/01/2023
+2620, Fantasy,Ready Player One,Ernest Cline,16.53,22/01/2023
+2621, Literature,Middlemarch,George Eliot,5.49,22/01/2023
+2622, Humor,The Monster at the End of this Book,Jon Stone,5.46,22/01/2023
+2623, Humor,Bridget Joness Diary,Helen Fielding,4.48,22/01/2023
+2624, Novels,Mrs. Dalloway,Virginia Woolf,1.33,22/01/2023
+2625, Fantasy,Mockingjay,Suzanne Collins,3.43,22/01/2023
+2626, Literature,Franny and Zooey,J.D. Salinger,4.19,22/01/2023
+2627, Classics,The Power of One,Bryce Courtenay,4,22/01/2023
+2628, Young Adult,The Magicians Nephew,C.S. Lewis,2.86,22/01/2023
+2629, Young Adult,Stardust,Neil Gaiman,6.7,22/01/2023
+2630, Classics,Number the Stars,Lois Lowry,8.29,22/01/2023
+2631, Science Fiction,Allegiant,Veronica Roth,2.76,22/01/2023
+2632, Fiction,Eleanor & Park,Rainbow Rowell,1.06,22/01/2023
+2633, Audiobook,A Short History of Nearly Everything,Bill Bryson,2.17,22/01/2023
+2634, Chick Lit,Me Before You,Jojo Moyes,3.14,22/01/2023
+2635, Fiction,The Mark of Athena,Rick Riordan,5.11,22/01/2023
+2636, Dogs,The Art of Racing in the Rain,Garth Stein,5.27,22/01/2023
+2637, High Fantasy,The Way of Kings,Brandon Sanderson,22.74,22/01/2023
+2638, Fiction,If I Stay,Gayle Forman,3.82,22/01/2023
+2639, Animals,Black Beauty,Anna Sewell,3.16,22/01/2023
+2640, Irish Literature,A Portrait of the Artist as a Young Man,James Joyce,5.87,22/01/2023
+2641, Adventure,Gullivers Travels,Jonathan Swift,3.27,22/01/2023
+2642, Book Club,Bel Canto,Ann Patchett,2.86,22/01/2023
+2643, Classics,American Psycho,Bret Easton Ellis,3.34,22/01/2023
+2644, Dystopia,V for Vendetta,Alan Moore,14.65,22/01/2023
+2645, Classics,Love You Forever,Robert Munsch,3.46,22/01/2023
+2646, Classics,The Witches,Roald Dahl,3.84,22/01/2023
+2647, Horror,The Graveyard Book,Neil Gaiman,3.87,22/01/2023
+2648, Historical Fiction,The Complete Novels,Jane Austen,2.76,22/01/2023
+2649, BDSM,Fifty Shades Freed,E.L. James,4,22/01/2023
+2650, Romance,Cold Mountain,Charles Frazier,4.21,22/01/2023
+2651, Animals,White Fang,Jack London,3.16,22/01/2023
+2652, Fantasy,Beowulf,Unknown,4.55,22/01/2023
+2653, Fiction,Tuck Everlasting,Natalie Babbitt,3.1,22/01/2023
+2654, High Fantasy,The Final Empire,Brandon Sanderson,20.93,22/01/2023
+2655, Romance,Beautiful Creatures,Kami Garcia,6.29,22/01/2023
+2656, German Literature,Steppenwolf,Hermann Hesse,2.71,22/01/2023
+2657, Dragons,Eldest,Christopher Paolini,3.11,22/01/2023
+2658, Paranormal Romance,Dark Lover,J.R. Ward,3.89,22/01/2023
+2659, Contemporary,Go Ask Alice,Beatrice Sparks (as Anonymous),2.98,22/01/2023
+2660, High Fantasy,The Eye of the World,Robert Jordan,5.13,22/01/2023
+2661, Short Stories,The Tell-Tale Heart and Other Writings,Edgar Allan Poe,5.58,22/01/2023
+2662, Novels,As I Lay Dying,William Faulkner,3.81,22/01/2023
+2663, Historical Fiction,A Separate Peace,John Knowles,2.82,22/01/2023
+2664, History,The Complete Maus,Art Spiegelman,13.84,22/01/2023
+2665, Historical Fiction,Mansfield Park,Jane Austen,3.11,22/01/2023
+2666, Literature,The Amazing Adventures of Kavalier & Clay,Michael Chabon,3.76,22/01/2023
+2667, Dragons,Brisingr,Christopher Paolini,3.92,22/01/2023
+2668, Psychology,A Child Called It,Dave Pelzer,2.93,22/01/2023
+2669, Realistic Fiction,Stargirl,Jerry Spinelli,2.25,22/01/2023
+2670, Classics,Tao Te Ching,Lao Tzu,8,22/01/2023
+2671, Contemporary,Dear John,Nicholas Sparks,1.64,22/01/2023
+2672, Classics,Midnights Children,Salman Rushdie,0.85,22/01/2023
+2673, Fantasy,Salems Lot,Stephen King,1.12,22/01/2023
+2674, Short Stories,The Martian Chronicles,Ray Bradbury,3.63,22/01/2023
+2675, Paranormal,Crescendo,Becca Fitzpatrick,5.8,22/01/2023
+2676, Romance,The English Patient,Michael Ondaatje,16.05,22/01/2023
+2677, Literature,East of Eden,John Steinbeck,5.26,22/01/2023
+2678, Historical Fiction,Cloud Atlas,David Mitchell,1.15,22/01/2023
+2679, Spirituality,Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values,Robert M. Pirsig,4.41,22/01/2023
+2680, Adventure,The Martian,Andy Weir,2.63,22/01/2023
+2681, Suspense,The Firm,John Grisham,3.09,22/01/2023
+2682, Contemporary,The Last Song,Nicholas Sparks,3.28,22/01/2023
+2683, Literature,My Ántonia,Willa Cather,2.86,22/01/2023
+2684, Romance,Shatter Me,Tahereh Mafi,4.81,22/01/2023
+2685, Science Fiction,The Amber Spyglass,Philip Pullman,1.64,22/01/2023
+2686, Russia,Doctor Zhivago,Boris Pasternak,6.56,22/01/2023
+2687, France,The Hunchback of Notre-Dame,Victor Hugo,3.32,10/08/2023
+2688, Literature,Inferno,Dante Alighieri,5.34,10/08/2023
+2689, Historical Fiction,Like Water for Chocolate,Laura Esquivel,2.6,10/08/2023
+2690, Fiction,Dragonfly in Amber,Diana Gabaldon,4.8,10/08/2023
+2691, Humor,Breakfast of Champions,Kurt Vonnegut Jr.,2.82,10/08/2023
+2692, Classics,The BFG,Roald Dahl,2.75,10/08/2023
+2693, Young Adult Fantasy,Six of Crows,Leigh Bardugo,5.78,10/08/2023
+2694, Magic,Harry Potter Series Box Set,J.K. Rowling,77.25,10/08/2023
+2695, Biology,The Origin of Species,Charles Darwin,5.58,10/08/2023
+2696, Canada,A Fine Balance,Rohinton Mistry,7.31,10/08/2023
+2697, Paranormal,Daughter of Smoke & Bone,Laini Taylor,4.99,10/08/2023
+2698, Science Fiction,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,3.35,10/08/2023
+2699, Paranormal,City of Heavenly Fire,Cassandra Clare,8.37,10/08/2023
+2700, Romance,Evermore,Alyson Noel,1.45,10/08/2023
+2701, Drama,Death of a Salesman,Arthur Miller,3.92,10/08/2023
+2702, Time Travel,11/22/63,Stephen King,6.21,10/08/2023
+2703, Crime,Midnight in the Garden of Good and Evil,John Berendt,4.43,10/08/2023
+2704, Fiction,A Streetcar Named Desire,Tennessee Williams,5.26,10/08/2023
+2705, Novels,Infinite Jest,David Foster Wallace,10.18,10/08/2023
+2706, Politics,The Prince,Niccolò Machiavelli,5.68,10/08/2023
+2707, Drama,Hamlet,William Shakespeare,2.2,10/08/2023
+2708, Poetry,Faust,Johann Wolfgang von Goethe,6.32,10/08/2023
+2709, Chick Lit,Anna and the French Kiss,Stephanie Perkins,3.11,10/08/2023
+2710, Science Fiction Fantasy,A Feast for Crows,George R.R. Martin,5,10/08/2023
+2711, Fiction,The Angel Experiment,James Patterson,3.43,10/08/2023
+2712, Science Fiction,Matched,Ally Condie,1.64,10/08/2023
+2713, Mystery,Flowers in the Attic,V.C. Andrews,8.77,10/08/2023
+2714, Canada,The Shipping News,Annie Proulx,1.29,10/08/2023
+2715, World War II,Unbroken: A World War II Story of Survival,Laura Hillenbrand,1.15,10/08/2023
+2716, Young Adult,The Chosen,Chaim Potok,2,10/08/2023
+2717, Humor,High Fidelity,Nick Hornby,2.58,10/08/2023
+2718, War,All the Light We Cannot See,Anthony Doerr,4.45,10/08/2023
+2719, Mystery,Houdini Heart,Ki Longfellow,4.58,10/08/2023
+2720, Middle Grade,Artemis Fowl,Eoin Colfer,4.97,10/08/2023
+2721, Young Adult,Pippi Longstocking,Astrid Lindgren,6.7,10/08/2023
+2722, Short Stories,The Tales of Beedle the Bard,J.K. Rowling,1.79,10/08/2023
+2723, Young Adult,The Virgin Suicides,Jeffrey Eugenides,2.67,10/08/2023
+2724, Classics,The Reader,Bernhard Schlink,3.16,10/08/2023
+2725, Adult,Nineteen Minutes,Jodi Picoult,2.66,10/08/2023
+2726, Fiction,The House of Hades,Rick Riordan,8,10/08/2023
+2727, Adventure,Shantaram,Gregory David Roberts,5.97,10/08/2023
+2728, Crime,The Devil in the White City: Murder,Erik Larson,6.78,10/08/2023
+2729, Romance,Redeeming Love,Francine Rivers,3.81,10/08/2023
+2730, Romance,The Age of Innocence,Edith Wharton,3.77,10/08/2023
+2731, Romance,The Host,Stephenie Meyer,3.89,10/08/2023
+2732, Mystery Thriller,The Lost Symbol,Dan Brown,0.85,10/08/2023
+2733, Paranormal,Betrayed,P.C. Cast,3.38,10/08/2023
+2734, Literature,The Grapes of Wrath,John Steinbeck,27.35,10/08/2023
+2735, Historical Fiction,Northanger Abbey,Jane Austen,0.85,10/08/2023
+2736, Young Adult,The Voyage of the Dawn Treader,C.S. Lewis,7.83,10/08/2023
+2737, Ireland,Dubliners,James Joyce,2.74,10/08/2023
+2738, Paranormal Romance,Lover Awakened,J.R. Ward,2.5,10/08/2023
+2739, New Adult,A Court of Thorns and Roses,Sarah J. Maas,18.9,10/08/2023
+2740, Adult Fiction,Divine Secrets of the Ya-Ya Sisterhood,Rebecca Wells,1.71,10/08/2023
+2741, Literature,The Waste Land,T.S. Eliot,5.26,10/08/2023
+2742, Paranormal,Untamed,P.C. Cast,2.87,10/08/2023
+2743, Novels,Everything Is Illuminated,Jonathan Safran Foer,1.45,10/08/2023
+2744, Magic,Crown of Midnight,Sarah J. Maas,18.19,10/08/2023
+2745, Biography,I Know Why the Caged Bird Sings,Maya Angelou,4.64,10/08/2023
+2746, Short Stories,I Robot,Isaac Asimov,8.99,10/08/2023
+2747, Romance,The Twilight Collection,Stephenie Meyer,28.05,10/08/2023
+2748, School,The Pearl,John Steinbeck,12.38,10/08/2023
+2749, Fantasy,The One,Kiera Cass,3.39,10/08/2023
+2750, Literature,The Jungle,Upton Sinclair,2.94,10/08/2023
+2751, Paranormal,Carrie,Stephen King,7.01,10/08/2023
+2752, Historical,Snow Falling on Cedars,David Guterson,1.79,10/08/2023
+2753, Fiction,Voyager,Diana Gabaldon,5.97,10/08/2023
+2754, Historical,I Claudius,Robert Graves,3.38,10/08/2023
+2755, Magic,Heir of Fire,Sarah J. Maas,8.99,10/08/2023
+2756, Essays,Me Talk Pretty One Day,David Sedaris,1.44,10/08/2023
+2757, Paranormal,Chosen,P.C. Cast,1.79,10/08/2023
+2758, Historical Fiction,A Room with a View,E.M. Forster,9.24,10/08/2023
+2759, 19th Century,Bleak House,Charles Dickens,5.51,10/08/2023
+2760, Politics,The Republic,Plato,2.85,10/08/2023
+2761, Young Adult,The Last Battle,C.S. Lewis,1.79,10/08/2023
+2762, Paranormal,The Exorcist,William Peter Blatty,6.49,10/08/2023
+2763, Drama,The Elephant Tree,R.D. Ronald,5.42,10/08/2023
+2764, Young Adult,Coraline,Neil Gaiman,11.55,10/08/2023
+2765, Literature,Demian: Die Geschichte von Emil Sinclairs Jugend,Hermann Hesse,3.56,10/08/2023
+2766, Fiction,The 5th Wave,Rick Yancey,1.64,10/08/2023
+2767, Paranormal,The Iron King,Julie Kagawa,3.81,10/08/2023
+2768, Novels,Quantum Roots II: Worm Holes,Kyle Keyes,14.36,10/08/2023
+2769, Romance,Aristotle and Dante Discover the Secrets of the Universe,Benjamin Alire Sáenz,19.17,10/08/2023
+2770, Fantasy,The Hunger Games,Suzanne Collins,5.09,13/10/2022
+2771, Magic,Harry Potter and the Order of the Phoenix,J.K. Rowling,7.38,13/10/2022
+2772, Vampires,Twilight,Stephenie Meyer,2.1,13/10/2022
+2773, Historical,The Book Thief,Markus Zusak,3.8,13/10/2022
+2774, Fantasy,Animal Farm,George Orwell,4.42,13/10/2022
+2775, Adventure,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,21.15,13/10/2022
+2776, Romance,Gone with the Wind,Margaret Mitchell,5.58,13/10/2022
+2777, Fiction,The Giving Tree,Shel Silverstein,4.87,13/10/2022
+2778, Gothic,Wuthering Heights,Emily Brontë,2.73,13/10/2022
+2779, Historical,Memoirs of a Geisha,Arthur Golden,2.76,13/10/2022
+2780, Childrens,Alices Adventures in Wonderland & Through the Looking-Glass,Lewis Carroll,3.07,13/10/2022
+2781, Historical Fiction,Jane Eyre,Charlotte Brontë,5.46,13/10/2022
+2782, Fantasy,Divergent,Veronica Roth,0.88,13/10/2022
+2783, School,Lord of the Flies,William Golding,1.89,13/10/2022
+2784, Romance,Romeo and Juliet,William Shakespeare,6.79,13/10/2022
+2785, Philosophy,The Alchemist,Paulo Coelho,13.22,13/10/2022
+2786, Literature,Crime and Punishment,Fyodor Dostoyevsky,18.85,13/10/2022
+2787, Romance,City of Bones,Cassandra Clare,6.29,13/10/2022
+2788, Fantasy,Enders Game,Orson Scott Card,4.6,13/10/2022
+2789, Childrens,Anne of Green Gables,L.M. Montgomery,6.07,13/10/2022
+2790, Young Adult,Charlottes Web,E.B. White,6.15,13/10/2022
+2791, Historical Fiction,Of Mice and Men,John Steinbeck,5.75,13/10/2022
+2792, Fantasy,Dracula,Bram Stoker,4.55,13/10/2022
+2793, Dystopia,Brave New World,Aldous Huxley,3.78,13/10/2022
+2794, Literature,The Catcher in the Rye,J.D. Salinger,2.6,13/10/2022
+2795, Romance,The Princess Bride,William Goldman,6.23,13/10/2022
+2796, Fiction,The Lightning Thief,Rick Riordan,1.79,13/10/2022
+2797, Young Adult,The Secret Garden,Frances Hodgson Burnett,3.33,13/10/2022
+2798, Novels,A Thousand Splendid Suns,Khaled Hosseini,1.16,13/10/2022
+2799, Young Adult,A Wrinkle in Time,Madeleine LEngle,4.8,13/10/2022
+2800, Adult,A Game of Thrones,George R.R. Martin,4.01,13/10/2022
+2801, Literature,The Adventures of Huckleberry Finn,Mark Twain,6.99,13/10/2022
+2802, Contemporary,The Lovely Bones,Alice Sebold,1.91,13/10/2022
+2803, Classics,Where the Wild Things Are,Maurice Sendak,3.67,13/10/2022
+2804, Fiction,Green Eggs and Ham,Dr. Seuss,2.98,13/10/2022
+2805, Mythology,The Odyssey,Homer,3.65,13/10/2022
+2806, Adventure,Life of Pi,Yann Martel,2.86,13/10/2022
+2807, Literature,A Tale of Two Cities,Charles Dickens,1.12,13/10/2022
+2808, Historical,Water for Elephants,Sara Gruen,3.46,13/10/2022
+2809, War,Slaughterhouse-Five,Kurt Vonnegut Jr.,8.5,13/10/2022
+2810, Science Fiction,Frankenstein: The 1818 Text,Mary Wollstonecraft Shelley,8.75,13/10/2022
+2811, Dystopia,The Giver,Lois Lowry,7.15,13/10/2022
+2812, Historical Fiction,Catch-22,Joseph Heller,3.32,13/10/2022
+2813, Classics,Dune,Frank Herbert,29.34,13/10/2022
+2814, Science Fiction,The Stand,Stephen King,8.38,13/10/2022
+2815, Young Adult,Watership Down,Richard Adams,5.25,13/10/2022
+2816, Historical Fiction,Great Expectations,Charles Dickens,0.85,13/10/2022
+2817, Young Adult,Little Women,Louisa May Alcott,5.51,13/10/2022
+2818, Magic,Harry Potter and the Deathly Hallows,J.K. Rowling,2.85,13/10/2022
+2819, Fiction,Outlander,Diana Gabaldon,5.98,13/10/2022
+2820, Young Adult,My Sisters Keeper,Jodi Picoult,2.76,13/10/2022
+2821, Fantasy,Matilda,Roald Dahl,6.01,13/10/2022
+2822, Feminism,The Color Purple,Alice Walker,13.75,13/10/2022
+2823, Young Adult,A Tree Grows in Brooklyn,Betty Smith,5.01,13/10/2022
+2824, Dystopia,A Clockwork Orange,Anthony Burgess,13.05,13/10/2022
+2825, Post Apocalyptic,The Road,Cormac McCarthy,6.83,13/10/2022
+2826, Literature,The Brothers Karamazov,Fyodor Dostoyevsky,5.51,13/10/2022
+2827, Classics,Angelas Ashes,Frank McCourt,2.76,13/10/2022
+2828, Paranormal,Vampire Academy,Richelle Mead,3.33,13/10/2022
+2829, Classics,The Poisonwood Bible,Barbara Kingsolver,4.12,13/10/2022
+2830, Childrens,The Golden Compass,Philip Pullman,1.61,13/10/2022
+2831, Spanish Literature,Don Quixote,Miguel de Cervantes Saavedra,9.04,13/10/2022
+2832, Politics,Atlas Shrugged,Ayn Rand,4.41,13/10/2022
+2833, Magic,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,5.94,13/10/2022
+2834, Novels,The Old Man and the Sea,Ernest Hemingway,15.63,13/10/2022
+2835, Fantasy,Winnie-the-Pooh,A.A. Milne,5.3,13/10/2022
+2836, Fiction,The Complete Stories and Poems,Edgar Allan Poe,5.27,13/10/2022
+2837, Vampires,Interview with the Vampire,Anne Rice,2.66,13/10/2022
+2838, Literature,A Prayer for Owen Meany,John Irving,2.86,13/10/2022
+2839, Adventure,Moby-Dick or,Herman Melville,1.87,13/10/2022
+2840, Religion,The Red Tent,Anita Diamant,5.26,13/10/2022
+2841, Classics,The Secret Life of Bees,Sue Monk Kidd,3.5,13/10/2022
+2842, Romance,Clockwork Angel,Cassandra Clare,4.62,13/10/2022
+2843, Crime,And Then There Were None,Agatha Christie,4.82,13/10/2022
+2844, LGBT,Middlesex,Jeffrey Eugenides,3.11,13/10/2022
+2845, Fantasy,The Master and Margarita,Mikhail Bulgakov,13.56,13/10/2022
+2846, High Fantasy,The Name of the Wind,Patrick Rothfuss,9.36,13/10/2022
+2847, Classics,The Shining,Stephen King,7.59,13/10/2022
+2848, Young Adult,The Adventures of Tom Sawyer,Mark Twain,3.36,13/10/2022
+2849, Dragons,Eragon,Christopher Paolini,2.86,13/10/2022
+2850, Classics,Charlie and the Chocolate Factory,Roald Dahl,1.13,13/10/2022
+2851, Literature,On the Road,Jack Kerouac,1.91,13/10/2022
+2852, Contemporary,The Curious Incident of the Dog in the Night-Time,Mark Haddon,2.94,13/10/2022
+2853, Classics,The Very Hungry Caterpillar,Eric Carle,2.42,13/10/2022
+2854, Inspirational,Tuesdays with Morrie,Mitch Albom,3.27,13/10/2022
+2855, Literature,The Unbearable Lightness of Being,Milan Kundera,11.62,13/10/2022
+2856, Classics,The Name of the Rose,Umberto Eco,4.07,13/10/2022
+2857, Childrens,Where the Red Fern Grows,Wilson Rawls,5.4,13/10/2022
+2858, Magic,Harry Potter and the Chamber of Secrets,J.K. Rowling,4.17,13/10/2022
+2859, School,The Scarlet Letter,Nathaniel Hawthorne,1.91,13/10/2022
+2860, Crime,In Cold Blood,Truman Capote,6.58,13/10/2022
+2861, Thriller,Fight Club,Chuck Palahniuk,10.16,13/10/2022
+2862, Fantasy,The Five People You Meet in Heaven,Mitch Albom,3.57,13/10/2022
+2863, Paranormal,Hush,Becca Fitzpatrick,2.55,13/10/2022
+2864, Fiction,The Cat in the Hat,Dr. Seuss,0.85,13/10/2022
+2865, Adventure,The Count of Monte Cristo,Alexandre Dumas,6.13,13/10/2022
+2866, Classics,Lonesome Dove,Larry McMurtry,4.55,13/10/2022
+2867, Horror,Perfume: The Story of a Murderer,Patrick Süskind,2.6,13/10/2022
+2868, Middle Grade,Holes,Louis Sachar,3.1,13/10/2022
+2869, Science Fiction,Watchmen,Alan Moore,4.85,13/10/2022
+2870, Fantasy,It,Stephen King,5.71,13/10/2022
+2871, Fiction,The Last Olympian,Rick Riordan,7.44,22/01/2023
+2872, Literature,The Divine Comedy,Dante Alighieri,13.66,22/01/2023
+2873, Childrens,Peter Pan,J.M. Barrie,5.26,22/01/2023
+2874, War,All Quiet on the Western Front,Erich Maria Remarque,2.32,22/01/2023
+2875, Adventure,The Hobbit,J.R.R. Tolkien,4.68,22/01/2023
+2876, Fiction,The Compleat Works of Wllm Shkspr (abridged),Reduced Shakespeare Company,3.17,22/01/2023
+2877, Romance,Love in the Time of Cholera,Gabriel García Márquez,3.36,22/01/2023
+2878, Paranormal,Shadow Kiss,Richelle Mead,2.76,22/01/2023
+2879, Fantasy,The Ultimate Hitchhikers Guide to the Galaxy,Douglas Adams,2.76,22/01/2023
+2880, Classics,Atonement,Ian McEwan,2.86,22/01/2023
+2881, Drama,The Importance of Being Earnest,Oscar Wilde,5.26,22/01/2023
+2882, Biography,Eat Pray Love,Elizabeth Gilbert,5.56,22/01/2023
+2883, School,Their Eyes Were Watching God,Zora Neale Hurston,14.2,22/01/2023
+2884, Childrens,The Wonderful Wizard of Oz,L. Frank Baum,1.45,22/01/2023
+2885, Fiction,Goodnight Moon,Margaret Wise Brown,5.69,22/01/2023
+2886, Classics,The Lorax,Dr. Seuss,41.26,22/01/2023
+2887, Paranormal,Blood Promise,Richelle Mead,3.73,22/01/2023
+2888, China,The Good Earth,Pearl S. Buck,5.27,22/01/2023
+2889, Africa,Heart of Darkness,Joseph Conrad,7.19,22/01/2023
+2890, Drama,A Midsummer Nights Dream,William Shakespeare,3,22/01/2023
+2891, Paranormal,Clockwork Princess,Cassandra Clare,4,22/01/2023
+2892, Fiction,The Prophet,Kahlil Gibran,5.8,22/01/2023
+2893, Fiction,The Titans Curse,Rick Riordan,3.43,22/01/2023
+2894, Fiction,The Sea of Monsters,Rick Riordan,1.91,22/01/2023
+2895, China,The Joy Luck Club,Amy Tan,4.74,22/01/2023
+2896, Childrens,Alice in Wonderland,Jane Carruth (Adapted By),5.26,22/01/2023
+2897, Young Adult,The Call of the Wild,Jack London,5.38,22/01/2023
+2898, Fantasy,Jonathan Livingston Seagull,Richard Bach,4.55,22/01/2023
+2899, Literature,Madame Bovary,Gustave Flaubert,1.45,22/01/2023
+2900, Classics,The Phantom Tollbooth,Norton Juster,5.79,22/01/2023
+2901, Dystopia,The Hunger Games Trilogy Boxset,Suzanne Collins,4.09,22/01/2023
+2902, Classics,Oh the Places Youll Go!,Dr. Seuss,5.01,22/01/2023
+2903, Crime,The Girl Who Played with Fire,Stieg Larsson,3.25,22/01/2023
+2904, Fiction,The Maze Runner,James Dashner,3.17,22/01/2023
+2905, Young Adult,The Neverending Story,Michael Ende,7.54,22/01/2023
+2906, Young Adult,Treasure Island,Robert Louis Stevenson,5.6,22/01/2023
+2907, Science Fiction Fantasy,A Storm of Swords,George R.R. Martin,3.57,22/01/2023
+2908, Literature,The Canterbury Tales,Geoffrey Chaucer,3.9,22/01/2023
+2909, War,A Farewell to Arms,Ernest Hemingway,0.91,22/01/2023
+2910, Realistic Fiction,Tote Mädchen lügen nicht,Jay Asher,3.86,22/01/2023
+2911, Science Fiction Fantasy,Wicked: The Life and Times of the Wicked Witch of the West,Gregory Maguire,2.76,22/01/2023
+2912, Historical,Shōgun,James Clavell,7.04,22/01/2023
+2913, Novels,Extremely Loud & Incredibly Close,Jonathan Safran Foer,2.41,22/01/2023
+2914, Crime,Murder on the Orient Express,Agatha Christie,2.56,22/01/2023
+2915, Childrens,His Dark Materials,Philip Pullman,3.57,22/01/2023
+2916, Young Adult,A Little Princess,Frances Hodgson Burnett,2.87,22/01/2023
+2917, Holocaust,Schindlers List,Thomas Keneally,0.85,22/01/2023
+2918, Paranormal,Last Sacrifice,Richelle Mead,3.8,22/01/2023
+2919, Historical Fiction,The Night Circus,Erin Morgenstern,7.02,22/01/2023
+2920, Paranormal,Fallen,Lauren Kate,4.64,22/01/2023
+2921, High Fantasy,The Silmarillion,J.R.R. Tolkien,17.07,22/01/2023
+2922, Historical,The Secret Magdalene,Ki Longfellow,5.6,22/01/2023
+2923, Magical Realism,Beloved,Toni Morrison,3.8,22/01/2023
+2924, Literature,A Confederacy of Dunces,John Kennedy Toole,5.91,22/01/2023
+2925, Fantasy,The Selection,Kiera Cass,5.01,22/01/2023
+2926, Picture Books,The Velveteen Rabbit,Margery Williams Bianco,5.9,22/01/2023
+2927, Fantasy,Catching Fire,Suzanne Collins,3.66,22/01/2023
+2928, Fiction,The Lost Hero,Rick Riordan,10.25,22/01/2023
+2929, Paranormal,Spirit Bound,Richelle Mead,4.59,22/01/2023
+2930, Paranormal,Clockwork Prince,Cassandra Clare,5.69,22/01/2023
+2931, Mythology,The Iliad/The Odyssey,Homer,6.15,22/01/2023
+2932, Historical Fiction,The Crucible,Arthur Miller,3.98,22/01/2023
+2933, Humor,Cats Cradle,Kurt Vonnegut Jr.,5.69,22/01/2023
+2934, Contemporary,The God of Small Things,Arundhati Roy,3.17,22/01/2023
+2935, Fantasy,The Wind in the Willows,Kenneth Grahame,4.18,22/01/2023
+2936, Classics,Girl with a Pearl Earring,Tracy Chevalier,2.86,22/01/2023
+2937, Christian,The Hiding Place: The Triumphant True Story of Corrie Ten Boom,Corrie ten Boom,4.17,22/01/2023
+2938, Fiction,A Light in the Attic,Shel Silverstein,12.08,22/01/2023
+2939, Mystery,The Silence of the Lambs,Thomas Harris,3.11,22/01/2023
+2940, Paranormal,Shiver,Maggie Stiefvater,7.05,22/01/2023
+2941, Fiction,Uglies,Scott Westerfeld,3.58,22/01/2023
+2942, Romance,City of Fallen Angels,Cassandra Clare,4.75,22/01/2023
+2943, History,Mans Search for Meaning,Viktor E. Frankl,7.37,22/01/2023
+2944, Adult Fiction,Shes Come Undone,Wally Lamb,1.91,22/01/2023
+2945, Romance,The Phantom of the Opera,Gaston Leroux,2.86,22/01/2023
+2946, Dogs,Marley and Me: Life and Love With the Worlds Worst Dog,John Grogan,5.29,22/01/2023
+2947, Romance,Ella Enchanted,Gail Carson Levine,1.91,22/01/2023
+2948, Japanese Literature,The Wind-Up Bird Chronicle,Haruki Murakami,22.25,22/01/2023
+2949, Thriller,The Green Mile,Stephen King,17.56,22/01/2023
+2950, Science Fiction Fantasy,A Clash of Kings,George R.R. Martin,1.91,22/01/2023
+2951, Paranormal,Marked,P.C. Cast,1.79,22/01/2023
+2952, Romance,The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer,3.65,22/01/2023
+2953, Journalism,Fear and Loathing in Las Vegas,Hunter S. Thompson,5.69,22/01/2023
+2954, Classics,The House of the Spirits,Isabel Allende,3.32,22/01/2023
+2955, Fiction,The Complete Calvin and Hobbes,Bill Watterson,110.67,22/01/2023
+2956, Historical,Roots: The Saga of an American Family,Alex Haley,3.1,22/01/2023
+2957, Suspense,Misery,Stephen King,1.12,22/01/2023
+2958, Romance,Howls Moving Castle,Diana Wynne Jones,5.95,22/01/2023
+2959, Science Fiction Fantasy,Stranger in a Strange Land,Robert A. Heinlein,6.4,22/01/2023
+2960, Crime,The Girl Who Kicked the Hornets Nest,Stieg Larsson,1.64,22/01/2023
+2961, Literary Fiction,The Secret History,Donna Tartt,9.11,22/01/2023
+2962, Adult Fiction,White Oleander,Janet Fitch,4.89,22/01/2023
+2963, Science Fiction,Delirium,Lauren Oliver,2.86,22/01/2023
+2964, Drama,Othello,William Shakespeare,6.76,22/01/2023
+2965, Historical,Flow Down Like Silver: Hypatia of Alexandria,Ki Longfellow,8.08,22/01/2023
+2966, Romance,Paper Towns,John Green,1.61,22/01/2023
+2967, Fiction,The Vampire Lestat,Anne Rice,5.68,22/01/2023
+2968, Realistic Fiction,Speak,Laurie Halse Anderson,5.07,22/01/2023
+2969, Russian Literature,The Idiot,Fyodor Dostoyevsky,5.46,22/01/2023
+2970, Fiction,King Lear,William Shakespeare,3.78,22/01/2023
+2971, Historical Fiction,The Once and Future King,T.H. White,2.66,22/01/2023
+2972, Literary Fiction,I Know This Much Is True,Wally Lamb,2.94,22/01/2023
+2973, Science Fiction Fantasy,Neverwhere,Neil Gaiman,4.66,22/01/2023
+2974, Adventure,Into the Wild,Jon Krakauer,3.75,22/01/2023
+2975, Childrens,Inkheart,Cornelia Funke,3.52,22/01/2023
+2976, Fantasy,Lamb: The Gospel According to Biff,Christopher Moore,3.56,22/01/2023
+2977, Crime,The Complete Sherlock Holmes,Arthur Conan Doyle,11.24,22/01/2023
+2978, France,Candide,Voltaire,1.45,22/01/2023
+2979, Classics,James and the Giant Peach,Roald Dahl,5.4,22/01/2023
+2980, History,Blood River: A Journey to Africas Broken Heart,Tim Butcher,2.76,22/01/2023
+2981, Literature,Paradise Lost,John Milton,1.91,22/01/2023
+2982, Classics,All Creatures Great and Small,James Herriot,2.63,22/01/2023
+2983, Plays,The Complete Works,William Shakespeare,4.44,22/01/2023
+2984, Gothic,The Thirteenth Tale,Diane Setterfield,1.76,22/01/2023
+2985, Science Fiction Fantasy,Foundation,Isaac Asimov,15.29,22/01/2023
+2986, Japanese Literature,Norwegian Wood,Haruki Murakami,13,22/01/2023
+2987, Classics,The Things They Carried,Tim OBrien,3.32,22/01/2023
+2988, Literature,The Cider House Rules,John Irving,5.14,22/01/2023
+2989, Thriller,Different Seasons,Stephen King,3.11,22/01/2023
+2990, Fantasy,Kafka on the Shore,Haruki Murakami,8.22,22/01/2023
+2991, Young Adult,Heidi,Johanna Spyri,2.49,22/01/2023
+2992, Classics,Are You There God? Its Me,Judy Blume,11.9,22/01/2023
+2993, Romance,City of Lost Souls,Cassandra Clare,5.26,22/01/2023
+2994, Young Adult,Sophies World,Jostein Gaarder,3.43,22/01/2023
+2995, High Fantasy,The Wise Mans Fear,Patrick Rothfuss,16.37,22/01/2023
+2996, School,The Awakening,Kate Chopin,10.36,22/01/2023
+2997, Holocaust,Sophies Choice,William Styron,4.08,22/01/2023
+2998, Romance,The Prince of Tides,Pat Conroy,7.15,22/01/2023
+2999, Contemporary,Never Let Me Go,Kazuo Ishiguro,6.46,22/01/2023
+3000, Fiction,The Son of Neptune,Rick Riordan,6.42,22/01/2023
+3001, Urban Fantasy,Dead Until Dark,Charlaine Harris,3.16,22/01/2023
+3002, Classics,Fried Green Tomatoes at the Whistle Stop Cafe,Fannie Flagg,16.54,22/01/2023
+3003, BDSM,Fifty Shades Darker,E.L. James,6.33,22/01/2023
+3004, Fantasy,Ready Player One,Ernest Cline,16.53,22/01/2023
+3005, Literature,Middlemarch,George Eliot,5.49,22/01/2023
+3006, Humor,The Monster at the End of this Book,Jon Stone,5.46,22/01/2023
+3007, Humor,Bridget Joness Diary,Helen Fielding,4.48,22/01/2023
+3008, Novels,Mrs. Dalloway,Virginia Woolf,1.33,22/01/2023
+3009, Fantasy,Mockingjay,Suzanne Collins,3.43,22/01/2023
+3010, Literature,Franny and Zooey,J.D. Salinger,4.19,22/01/2023
+3011, Classics,The Power of One,Bryce Courtenay,4,22/01/2023
+3012, Young Adult,The Magicians Nephew,C.S. Lewis,2.86,22/01/2023
+3013, Young Adult,Stardust,Neil Gaiman,6.7,22/01/2023
+3014, Classics,Number the Stars,Lois Lowry,8.29,22/01/2023
+3015, Science Fiction,Allegiant,Veronica Roth,2.76,22/01/2023
+3016, Fiction,Eleanor & Park,Rainbow Rowell,1.06,22/01/2023
+3017, Audiobook,A Short History of Nearly Everything,Bill Bryson,2.17,22/01/2023
+3018, Chick Lit,Me Before You,Jojo Moyes,3.14,22/01/2023
+3019, Fiction,The Mark of Athena,Rick Riordan,5.11,22/01/2023
+3020, Dogs,The Art of Racing in the Rain,Garth Stein,5.27,22/01/2023
+3021, High Fantasy,The Way of Kings,Brandon Sanderson,22.74,22/01/2023
+3022, Fiction,If I Stay,Gayle Forman,3.82,22/01/2023
+3023, Animals,Black Beauty,Anna Sewell,3.16,22/01/2023
+3024, Irish Literature,A Portrait of the Artist as a Young Man,James Joyce,5.87,22/01/2023
+3025, Adventure,Gullivers Travels,Jonathan Swift,3.27,22/01/2023
+3026, Book Club,Bel Canto,Ann Patchett,2.86,22/01/2023
+3027, Classics,American Psycho,Bret Easton Ellis,3.34,22/01/2023
+3028, Dystopia,V for Vendetta,Alan Moore,14.65,22/01/2023
+3029, Classics,Love You Forever,Robert Munsch,3.46,22/01/2023
+3030, Classics,The Witches,Roald Dahl,3.84,22/01/2023
+3031, Horror,The Graveyard Book,Neil Gaiman,3.87,22/01/2023
+3032, Historical Fiction,The Complete Novels,Jane Austen,2.76,22/01/2023
+3033, BDSM,Fifty Shades Freed,E.L. James,4,22/01/2023
+3034, Romance,Cold Mountain,Charles Frazier,4.21,22/01/2023
+3035, Animals,White Fang,Jack London,3.16,22/01/2023
+3036, Fantasy,Beowulf,Unknown,4.55,22/01/2023
+3037, Fiction,Tuck Everlasting,Natalie Babbitt,3.1,22/01/2023
+3038, High Fantasy,The Final Empire,Brandon Sanderson,20.93,22/01/2023
+3039, Romance,Beautiful Creatures,Kami Garcia,6.29,22/01/2023
+3040, German Literature,Steppenwolf,Hermann Hesse,2.71,22/01/2023
+3041, Dragons,Eldest,Christopher Paolini,3.11,22/01/2023
+3042, Paranormal Romance,Dark Lover,J.R. Ward,3.89,22/01/2023
+3043, Contemporary,Go Ask Alice,Beatrice Sparks (as Anonymous),2.98,22/01/2023
+3044, High Fantasy,The Eye of the World,Robert Jordan,5.13,22/01/2023
+3045, Short Stories,The Tell-Tale Heart and Other Writings,Edgar Allan Poe,5.58,22/01/2023
+3046, Novels,As I Lay Dying,William Faulkner,3.81,22/01/2023
+3047, Historical Fiction,A Separate Peace,John Knowles,2.82,22/01/2023
+3048, History,The Complete Maus,Art Spiegelman,13.84,22/01/2023
+3049, Historical Fiction,Mansfield Park,Jane Austen,3.11,22/01/2023
+3050, Literature,The Amazing Adventures of Kavalier & Clay,Michael Chabon,3.76,22/01/2023
+3051, Dragons,Brisingr,Christopher Paolini,3.92,22/01/2023
+3052, Psychology,A Child Called It,Dave Pelzer,2.93,22/01/2023
+3053, Realistic Fiction,Stargirl,Jerry Spinelli,2.25,22/01/2023
+3054, Classics,Tao Te Ching,Lao Tzu,8,22/01/2023
+3055, Contemporary,Dear John,Nicholas Sparks,1.64,22/01/2023
+3056, Classics,Midnights Children,Salman Rushdie,0.85,22/01/2023
+3057, Fantasy,Salems Lot,Stephen King,1.12,22/01/2023
+3058, Short Stories,The Martian Chronicles,Ray Bradbury,3.63,22/01/2023
+3059, Paranormal,Crescendo,Becca Fitzpatrick,5.8,22/01/2023
+3060, Romance,The English Patient,Michael Ondaatje,16.05,22/01/2023
+3061, Literature,East of Eden,John Steinbeck,5.26,22/01/2023
+3062, Historical Fiction,Cloud Atlas,David Mitchell,1.15,22/01/2023
+3063, Spirituality,Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values,Robert M. Pirsig,4.41,22/01/2023
+3064, Adventure,The Martian,Andy Weir,2.63,22/01/2023
+3065, Suspense,The Firm,John Grisham,3.09,22/01/2023
+3066, Contemporary,The Last Song,Nicholas Sparks,3.28,22/01/2023
+3067, Literature,My Ántonia,Willa Cather,2.86,22/01/2023
+3068, Romance,Shatter Me,Tahereh Mafi,4.81,22/01/2023
+3069, Science Fiction,The Amber Spyglass,Philip Pullman,1.64,22/01/2023
+3070, Russia,Doctor Zhivago,Boris Pasternak,6.56,22/01/2023
+3071, France,The Hunchback of Notre-Dame,Victor Hugo,3.32,10/08/2023
+3072, Literature,Inferno,Dante Alighieri,5.34,10/08/2023
+3073, Historical Fiction,Like Water for Chocolate,Laura Esquivel,2.6,10/08/2023
+3074, Fiction,Dragonfly in Amber,Diana Gabaldon,4.8,10/08/2023
+3075, Humor,Breakfast of Champions,Kurt Vonnegut Jr.,2.82,10/08/2023
+3076, Classics,The BFG,Roald Dahl,2.75,10/08/2023
+3077, Young Adult Fantasy,Six of Crows,Leigh Bardugo,5.78,10/08/2023
+3078, Magic,Harry Potter Series Box Set,J.K. Rowling,77.25,10/08/2023
+3079, Biology,The Origin of Species,Charles Darwin,5.58,10/08/2023
+3080, Canada,A Fine Balance,Rohinton Mistry,7.31,10/08/2023
+3081, Paranormal,Daughter of Smoke & Bone,Laini Taylor,4.99,10/08/2023
+3082, Science Fiction,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,3.35,10/08/2023
+3083, Paranormal,City of Heavenly Fire,Cassandra Clare,8.37,10/08/2023
+3084, Romance,Evermore,Alyson Noel,1.45,10/08/2023
+3085, Drama,Death of a Salesman,Arthur Miller,3.92,10/08/2023
+3086, Time Travel,11/22/63,Stephen King,6.21,10/08/2023
+3087, Crime,Midnight in the Garden of Good and Evil,John Berendt,4.43,10/08/2023
+3088, Fiction,A Streetcar Named Desire,Tennessee Williams,5.26,10/08/2023
+3089, Novels,Infinite Jest,David Foster Wallace,10.18,10/08/2023
+3090, Politics,The Prince,Niccolò Machiavelli,5.68,10/08/2023
+3091, Drama,Hamlet,William Shakespeare,2.2,10/08/2023
+3092, Poetry,Faust,Johann Wolfgang von Goethe,6.32,10/08/2023
+3093, Chick Lit,Anna and the French Kiss,Stephanie Perkins,3.11,10/08/2023
+3094, Science Fiction Fantasy,A Feast for Crows,George R.R. Martin,5,10/08/2023
+3095, Fiction,The Angel Experiment,James Patterson,3.43,10/08/2023
+3096, Science Fiction,Matched,Ally Condie,1.64,10/08/2023
+3097, Mystery,Flowers in the Attic,V.C. Andrews,8.77,10/08/2023
+3098, Canada,The Shipping News,Annie Proulx,1.29,10/08/2023
+3099, World War II,Unbroken: A World War II Story of Survival,Laura Hillenbrand,1.15,10/08/2023
+3100, Young Adult,The Chosen,Chaim Potok,2,10/08/2023
+3101, Humor,High Fidelity,Nick Hornby,2.58,10/08/2023
+3102, War,All the Light We Cannot See,Anthony Doerr,4.45,10/08/2023
+3103, Mystery,Houdini Heart,Ki Longfellow,4.58,10/08/2023
+3104, Middle Grade,Artemis Fowl,Eoin Colfer,4.97,10/08/2023
+3105, Young Adult,Pippi Longstocking,Astrid Lindgren,6.7,10/08/2023
+3106, Short Stories,The Tales of Beedle the Bard,J.K. Rowling,1.79,10/08/2023
+3107, Young Adult,The Virgin Suicides,Jeffrey Eugenides,2.67,10/08/2023
+3108, Classics,The Reader,Bernhard Schlink,3.16,10/08/2023
+3109, Adult,Nineteen Minutes,Jodi Picoult,2.66,10/08/2023
+3110, Fiction,The House of Hades,Rick Riordan,8,10/08/2023
+3111, Adventure,Shantaram,Gregory David Roberts,5.97,10/08/2023
+3112, Crime,The Devil in the White City: Murder,Erik Larson,6.78,10/08/2023
+3113, Romance,Redeeming Love,Francine Rivers,3.81,10/08/2023
+3114, Romance,The Age of Innocence,Edith Wharton,3.77,10/08/2023
+3115, Romance,The Host,Stephenie Meyer,3.89,10/08/2023
+3116, Mystery Thriller,The Lost Symbol,Dan Brown,0.85,10/08/2023
+3117, Paranormal,Betrayed,P.C. Cast,3.38,10/08/2023
+3118, Literature,The Grapes of Wrath,John Steinbeck,27.35,10/08/2023
+3119, Historical Fiction,Northanger Abbey,Jane Austen,0.85,10/08/2023
+3120, Young Adult,The Voyage of the Dawn Treader,C.S. Lewis,7.83,10/08/2023
+3121, Ireland,Dubliners,James Joyce,2.74,10/08/2023
+3122, Paranormal Romance,Lover Awakened,J.R. Ward,2.5,10/08/2023
+3123, New Adult,A Court of Thorns and Roses,Sarah J. Maas,18.9,10/08/2023
+3124, Adult Fiction,Divine Secrets of the Ya-Ya Sisterhood,Rebecca Wells,1.71,10/08/2023
+3125, Literature,The Waste Land,T.S. Eliot,5.26,10/08/2023
+3126, Paranormal,Untamed,P.C. Cast,2.87,10/08/2023
+3127, Novels,Everything Is Illuminated,Jonathan Safran Foer,1.45,10/08/2023
+3128, Magic,Crown of Midnight,Sarah J. Maas,18.19,10/08/2023
+3129, Biography,I Know Why the Caged Bird Sings,Maya Angelou,4.64,10/08/2023
+3130, Short Stories,I Robot,Isaac Asimov,8.99,10/08/2023
+3131, Romance,The Twilight Collection,Stephenie Meyer,28.05,10/08/2023
+3132, School,The Pearl,John Steinbeck,12.38,10/08/2023
+3133, Fantasy,The One,Kiera Cass,3.39,10/08/2023
+3134, Literature,The Jungle,Upton Sinclair,2.94,10/08/2023
+3135, Paranormal,Carrie,Stephen King,7.01,10/08/2023
+3136, Historical,Snow Falling on Cedars,David Guterson,1.79,10/08/2023
+3137, Fiction,Voyager,Diana Gabaldon,5.97,10/08/2023
+3138, Historical,I Claudius,Robert Graves,3.38,10/08/2023
+3139, Magic,Heir of Fire,Sarah J. Maas,8.99,10/08/2023
+3140, Essays,Me Talk Pretty One Day,David Sedaris,1.44,10/08/2023
+3141, Paranormal,Chosen,P.C. Cast,1.79,10/08/2023
+3142, Historical Fiction,A Room with a View,E.M. Forster,9.24,10/08/2023
+3143, 19th Century,Bleak House,Charles Dickens,5.51,10/08/2023
+3144, Politics,The Republic,Plato,2.85,10/08/2023
+3145, Young Adult,The Last Battle,C.S. Lewis,1.79,10/08/2023
+3146, Paranormal,The Exorcist,William Peter Blatty,6.49,10/08/2023
+3147, Drama,The Elephant Tree,R.D. Ronald,5.42,10/08/2023
+3148, Young Adult,Coraline,Neil Gaiman,11.55,10/08/2023
+3149, Literature,Demian: Die Geschichte von Emil Sinclairs Jugend,Hermann Hesse,3.56,10/08/2023
+3150, Fiction,The 5th Wave,Rick Yancey,1.64,10/08/2023
+3151, Paranormal,The Iron King,Julie Kagawa,3.81,10/08/2023
+3152, Novels,Quantum Roots II: Worm Holes,Kyle Keyes,14.36,10/08/2023
+3153, Romance,Aristotle and Dante Discover the Secrets of the Universe,Benjamin Alire Sáenz,19.17,10/08/2023
